@@ -1,8 +1,12 @@
-# ATLAS: Making Education More Personalised Through Agentic Tutoring (IRP)
+![Alt text](images/atlas_background.jpg)
+
+# ATLAS: Making Education More Personalised Through Agentic Tutoring
 
 Welcome to ATLAS, an agentic Intelligent Tutoring System (ITS) guiding students throughout their enrolled university modules.
 
 *Note: ATLAS is part of CampusConnect, a Microsoft-led project aiming to build an agentic open-source intelligent campus management system. Other areas of automation are maintenance, energy consumption, student services, security, and event planning.*
+
+*Note n2: This project has been developed on my university email address. This repo is a copy-paste of the final version.*
 
 ## Project Structure
 
