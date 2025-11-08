@@ -1,0 +1,3 @@
+The AD-AS model is a vital tool in modern macroeconomics. It integrates production, price level, and unemployment, and demonstrates how various factors—like spending, production costs, and government policy—interact to affect the economy as a whole. Next, we'll explore how the AD-AS model relates to economic policy, stabilization efforts, and the debate over government intervention. 
+
+Be sure to attempt all exercises and bring any questions to our next session!

@@ -1,0 +1,1 @@
+This final lecture in LAW901 seeks to synthesize the core themes studied so far and explore contemporary challenges facing public law. We also examine possible future directions, focusing on the relationship between public law, technological innovation, human rights, and global governance.

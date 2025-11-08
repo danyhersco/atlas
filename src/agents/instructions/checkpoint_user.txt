@@ -1,0 +1,7 @@
+Previous chat rounds (if any):
+{PREVIOUS_CHAT_ROUND}
+
+Current chat round:
+{CURRENT_CHAT_ROUND}
+
+Note that "user" refers to the student, {LEARNER_NAME}, and "assistant" refers to the teacher.

@@ -1,0 +1,3 @@
+This lecture has covered the fundamental building blocks of financial literacy: understanding where your money comes from and where it goes. You have learned to identify sources of income, categorize types of expenses, and construct simple income statements and budgets. Mastering these skills is essential for effective cash flow management and, ultimately, for achieving your financial goals. 
+
+Be sure to complete the exercises to reinforce your learning!

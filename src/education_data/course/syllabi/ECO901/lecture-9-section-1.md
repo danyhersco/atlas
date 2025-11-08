@@ -1,0 +1,3 @@
+Monetary policy is one of the two primary types of macroeconomic policy used by governments to influence the economy, the other being fiscal policy (covered in the previous lecture). While fiscal policy involves changes in government spending and taxation, **monetary policy** refers to the management of a nation's money supply and interest rates—primarily by a country's central bank—to achieve macroeconomic objectives such as controlling inflation, managing employment levels, and fostering economic growth.
+
+Monetary policy plays a crucial role in maintaining economic stability and steering economic growth. Let's delve deeper into how this important lever of government works.

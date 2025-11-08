@@ -1,0 +1,3 @@
+- **Expectations**: If people expect inflation to rise, central bank actions may not be enough to keep demand in check (the "expectations channel").
+- **Liquidity Trap**: When interest rates are near zero, further monetary easing may not stimulate extra borrowing.
+- **Global Spillovers**: Policy in one country affects international exchange rates, capital flows, and other economies.

@@ -1,0 +1,5 @@
+- Sampling enables us to draw conclusions about populations without measuring every member.
+- The method of sampling affects how well we can generalize results.
+- The distribution of sample means, known as the sampling distribution, is crucial for inference.
+- The Central Limit Theorem underpins much of statistical inference, justifying the use of normal-based techniques even when the population distribution is unknown or non-normal, so long as the sample is large.
+- Understanding these concepts is foundational for the next steps: confidence intervals and hypothesis testing.

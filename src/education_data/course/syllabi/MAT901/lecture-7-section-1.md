@@ -1,0 +1,5 @@
+In statistical practice, we often wish to make inferences about a population (such as all residents of a country, all manufactured parts from a factory, or all students at a university). However, it's usually impractical or impossible to collect data on every member of the population. Instead, we collect data from a subset of the population, known as a *sample*, and use this information to draw conclusions about the whole.
+
+Understanding how to collect these samples and what inferences we can reliably make from them is a cornerstone of statistics. This lecture introduces the WHY and HOW of sampling, types of sampling methods, and the important concept of *sampling distributions*, especially that of the mean. We finish with a derivation and illustration of the fundamental Central Limit Theorem (CLT).
+
+---

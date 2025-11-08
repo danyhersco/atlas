@@ -1,0 +1,3 @@
+In this lecture, we will explore the essential concepts of *interest rates* and the *time value of money*. Understanding these topics is crucial for making sound financial decisions, whether you are saving, borrowing, or investing. We will examine the difference between simple and compound interest, learn how to calculate interest, and analyze how money grows over time. These principles have direct applications in personal finance, from evaluating savings accounts to understanding loans and investment options.
+
+---

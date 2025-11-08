@@ -1,0 +1,13 @@
+.git
+.github
+.env
+.env.*
+.venv
+.DS_Store
+__pycache__/
+build/
+exams
+syllabi
+cache
+translations
+chat_reports

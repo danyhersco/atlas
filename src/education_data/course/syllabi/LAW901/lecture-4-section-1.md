@@ -1,0 +1,3 @@
+One of the defining principles of modern constitutional government is the separation of powers. This lecture examines the theory behind the separation of powers, its practical application through the legislative, executive, and judicial branches, and the mechanisms that ensure checks and balances. We will also explore comparative perspectives, considering how different countries and legal systems implement these principles.
+
+---

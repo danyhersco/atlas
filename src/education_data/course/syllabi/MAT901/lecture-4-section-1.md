@@ -1,0 +1,3 @@
+In the previous lectures, we explored foundational probability concepts—sample spaces, types of events, core probability rules, conditional probability, and Bayes’ Theorem. In this lecture, we move deeper into the language of probability by introducing the concepts of **random variables** and their **probability distributions**. Understanding these ideas is essential for modeling uncertainty and analyzing real-world phenomena statistically.
+
+---

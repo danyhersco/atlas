@@ -1,0 +1,3 @@
+- **Phase**: Started as an expansion, peaked in late 2007, and entered a severe contraction.
+- **Causes**: Burst of the housing bubble, banking crisis, sharply falling consumer confidence.
+- **Consequences**: Global output fell, unemployment soared, governments responded with stimulus packages.

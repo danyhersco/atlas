@@ -1,0 +1,42 @@
+#chat-submit {
+  background-color: #ff761a;
+  border-color: #ff761a;
+}
+
+#chat-submit:hover,
+#chat-submit:focus {
+  background-color: #f16101;
+  border-color: #f16101;
+}
+
+#stop-button {
+  background-color: #f16101;
+  border-color: #f16101;
+}
+
+#chat-profiles:focus {
+  --tw-ring-color: #ff761a;
+}
+
+#user-nav-button span {
+  background-color: #ff761a;
+  --tw-ring-color: #ff761a;
+}
+
+#user-nav-button:focus {
+  background-color: #ff761a;
+  --tw-ring-color: #ff761a;
+}
+
+:root {
+  --primary: 30, 100%, 50% !important; /* Orange */
+  --primary-foreground: 0, 0%, 100% !important; /* White text for contrast */
+}
+
+#password {
+  --tw-ring-color: none;
+}
+
+#email {
+  --tw-ring-color: none;
+}

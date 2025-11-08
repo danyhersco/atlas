@@ -1,0 +1,167 @@
+[
+    {
+        "concept_id": "programming-mathematical-formulas",
+        "question": "Suppose you are given the following mathematical formula for the position of an object in vertical motion at time t: \n$y(t) = v_0 t - \\frac{1}{2} g t^2$.\nYour task is to translate this formula into Python code to calculate y for any given values of v0, g, and t. \nWhich of the following is the most accurate Python statement to compute y, with variables v0, g, and t assumed to be defined as floats? \nCarefully analyze the mathematical operations and how they map to Python syntax.",
+        "choices": [
+            "A. y = v0 * t - 0.5 * g * t ** 2",
+            "B. y = v0 * t - 0.5 * g * t ^ 2",
+            "C. y = v0 t - 0.5 g t 2",
+            "D. y = v0 * t - 1/2 * g * t * t",
+            "E. y = v0 * t - 0.5 * g * (t^2)"
+        ]
+    },
+    {
+        "concept_id": "variables-and-naming-rules",
+        "question": "Suppose you are writing a Python program to convert distances. Which of the following expressions for a variable name both strictly follows Python's naming rules and is the best practice for code clarity and maintainability? Assume your variable represents the number of inches in a distance measured in meters.",
+        "choices": [
+            "A. inches_from_meters",
+            "B. 1stInches",
+            "C. inches-from-meters",
+            "D. Inches From Meters",
+            "E. inches$from$meters"
+        ]
+    },
+    {
+        "concept_id": "code-comments-in-python",
+        "question": "Suppose you are reviewing Python code written by another researcher in computational science. Which of the following represents the most effective use of comments according to best practices taught in this course?",
+        "choices": [
+            "A. # Convert temperature from Celsius to Fahrenheit\nfahrenheit = celsius * 9/5 + 32",
+            "B. fahrenheit = celsius * 9/5 + 32 # calculation",
+            "C. # This next line does something important\nfahrenheit = celsius * 9/5 + 32",
+            "D. fahrenheit = celsius * 9/5 + 32 # math stuff",
+            "E. # See equation 2.3 in Smith (2022) for temperature conversion formula\nfahrenheit = celsius * 9/5 + 32"
+        ]
+    },
+    {
+        "concept_id": "formatted-output-in-python",
+        "question": "Given the following variables with measured values and uncertainties: t = 0.63958 (measured with precision of 0.01 s) and y = 1.23456 (measured with precision of 0.01 m), choose the most appropriate Python print statement for reporting these values in a single line, using the f-string method, adhering to proper formatting of significant digits as per measurement precision.",
+        "choices": [
+            "A. print(f\"At t={t:.2f} s, y is {y:.2f} m.\")",
+            "B. print(f\"At t={t} s, y is {y} m.\")",
+            "C. print(f\"At t={t:.6f} s, y is {y:.5f} m.\")",
+            "D. print(f\"At t={t:g} s, y is {y:g} m.\")",
+            "E. print(f\"At t={t:.1f} s, y is {y:.1f} m.\")"
+        ]
+    },
+    {
+        "concept_id": "arithmetic-expression-evaluation",
+        "question": "Suppose a student wants to compute the total amount in a bank account after n years with annual interest rate p (in percent), starting with an initial amount A_0, using Python. They write the following expression:\n\nA_n = A_0 * 1 + p/100 ** n\n\nAssume p, n, and A_0 are all defined as numbers. Which of the following best describes the value that will be computed for A_n, and why?",
+        "choices": [
+            "A. It will not yield the correct amount, because due to Python's operator precedence, p/100**n will be computed first and added to A_0, instead of raising (1+p/100) to the n-th power and multiplying by A_0.",
+            "B. It will yield the correct amount, because Python evaluates multiplication and division before addition, so the expression computes the compound interest correctly.",
+            "C. It will raise a syntax error in Python, since exponents cannot be used in expressions involving division and addition.",
+            "D. It will compute the correct formula but only if n is 1; otherwise, it gives the wrong result for n > 1.",
+            "E. It will yield the correct amount only if p=0, but not in the general case."
+        ]
+    },
+    {
+        "concept_id": "standard-mathematical-functions",
+        "question": "Given the following Python code for evaluating the Gaussian function, identify the correct way to import and use all necessary functions from the math module to compute $f(x)$ for $m=0$, $s=2$, $x=1$:\n\n$$f(x) = \\frac{1}{s\\sqrt{2\\pi}} \\exp\\left(-\\frac{1}{2} \\left(\\frac{x-m}{s}\\right)^2\\right)$$\n\nWhich of the following code snippets accomplishes this correctly?",
+        "choices": [
+            "A. from math import sqrt, pi, exp\nm = 0\ns = 2\nx = 1\nf_x = 1/(s*sqrt(2*pi)) * exp(-0.5 * ((x-m)/s)**2)",
+            "B. from math import sqrt, pi, exp\nm = 0\ns = 2\nx = 1\nf_x = 1/(sqrt(2*pi)) * exp(-0.5 * (x-m)/s**2)",
+            "C. import math\nm = 0\ns = 2\nx = 1\nf_x = 1/(s*math.pi) * math.exp(-0.5 * ((x-m)/s)**2)",
+            "D. from math import sqrt, pi, exp\nm = 0\ns = 2\nx = 1\nf_x = 1/(s*sqrt(pi)) * exp(-0.5 * ((x-m)/s)**2)",
+            "E. import math\nm = 0\ns = 2\nx = 1\nf_x = 1/(s*math.sqrt(2*math.pi)) * exp(-0.5 * ((x-m)/s)**2)"
+        ]
+    },
+    {
+        "concept_id": "defining-and-using-functions",
+        "question": "Suppose you are writing a function to compute the area and circumference of a circle given its radius, with the option to specify the value of \\( \\pi \\) (defaulting to 3.14159). Which of the following is the most appropriate way to define this function in Python, following best practices shown in the lecture?",
+        "choices": [
+            "A. def circle_properties(radius, pi=3.14159):\n    \"\"\"Calculate area and circumference of a circle.\"\"\"\n    area = pi * radius ** 2\n    circumference = 2 * pi * radius\n    return area, circumference",
+            "B. def circle_properties(radius, pi=3.14159):\n    area = pi * radius ** 2\n    circumference = 2 * pi * radius\n    return ([area], [circumference])",
+            "C. def circle_properties(radius, optional_pi=3.14159):\n    area = 2 * pi * radius\n    circumference = pi * radius ** 2\n    return area + circumference",
+            "D. def circle_properties(radius, pi=3.14159):\n    \"\"\"Calculate area and circumference.\"\"\"\n    return [pi * radius ** 2, 2 * pi * radius]",
+            "E. def circle_properties(r, pi=3.14159):\n    area = pi * r * r\n    circumference = 2 * pi * r\n    print(area, circumference)"
+        ]
+    },
+    {
+        "concept_id": "local-and-global-scope",
+        "question": "Suppose you have the following Python code:\n\nx = 5\n\ndef update():\n    x = 10\n    print('Inside function:', x)\n\nupdate()\nprint('Outside function:', x)\n\nBased on your understanding of local and global scope, what will the output of this code be, and why?",
+        "choices": [
+            "A. Inside function: 10\nOutside function: 5\nBecause the x inside the function is a local variable and does not affect the global x.",
+            "B. Inside function: 10\nOutside function: 10\nBecause the function changes the global x to 10.",
+            "C. Inside function: 5\nOutside function: 10\nBecause the function reads global x and modifies it globally.",
+            "D. Inside function: 10\nOutside function: NameError\nBecause the global x becomes inaccessible after update().",
+            "E. Inside function: NameError\nOutside function: 5\nBecause x is not defined inside the function."
+        ]
+    },
+    {
+        "concept_id": "keyword-arguments-and-defaults",
+        "question": "Given the function definition below, a user wishes to invoke it to reverse the default values for kwarg2 and kwarg1 (so that kwarg2 is set to the value originally assigned to kwarg1, and kwarg1 to the value originally assigned to kwarg2). Without changing the function definition, which one of the following function calls will achieve this effect and print the correct swapped values? Assume the default values are kwarg1=True and kwarg2=0.\n\ndef demo(arg1, arg2, kwarg1=True, kwarg2=0):\n    print(f\"arg1: {arg1}, arg2: {arg2}, kwarg1: {kwarg1}, kwarg2: {kwarg2}\")\n\nThe goal is to get the following output:\n\narg1: alpha, arg2: beta, kwarg1: 0, kwarg2: True",
+        "choices": [
+            "A. demo('alpha', 'beta', kwarg1=0, kwarg2=True)",
+            "B. demo('alpha', 'beta', True, 0)",
+            "C. demo(arg1='alpha', arg2='beta', kwarg1=True, kwarg2=0)",
+            "D. demo(arg2='beta', arg1='alpha')",
+            "E. demo('alpha', 'beta', kwarg2=True, kwarg1=0)"
+        ]
+    },
+    {
+        "concept_id": "boolean-expressions",
+        "question": "Given the following Python code:\n\nC = 39\nD = 41\n\nresult = (C >= 40 or D < 42) and not (C == 39 and D > 40)\n\nWhat will be the value of 'result'? Explain your reasoning based on how boolean operators are evaluated in Python.",
+        "choices": [
+            "A. False. The expression (C == 39 and D > 40) is True, so its negation is False, and since the left part (C >= 40 or D < 42) is True, overall it's False because True and False is False.",
+            "B. True. Even though (C == 39 and D > 40) is True, its negation is False, but since (C >= 40 or D < 42) is True, the 'or' operator makes the whole expression True.",
+            "C. True. Both (C >= 40 or D < 42) and not (C == 39 and D > 40) are True, so the result is True.",
+            "D. False. Both (C >= 40 or D < 42) and not (C == 39 and D > 40) are False, so the result is False.",
+            "E. True. Since (C >= 40 or D < 42) is True, Python will short-circuit and return True regardless of the rest of the expression."
+        ]
+    },
+    {
+        "concept_id": "loops-in-python",
+        "question": "Imagine you are tasked with modifying the Celsius-to-Fahrenheit table program so that it prints the Celsius and Fahrenheit values for every 2.5°C increment between -20°C and 40°C (inclusive). Which of the following code snippets best demonstrates how to use a loop in Python to achieve this outcome?",
+        "choices": [
+            "A. for C in range(-20, 41, 3):\n    F = 9 / 5 * C + 32\n    print(C, F)\nC = -20\nwhile C <= 40:\n    F = 9 / 5 * C + 32\n    print(C, F)\n    C += 2.5",
+            "B. for C in range(-20, 41, 2.5):\n    F = 9 / 5 * C + 32\n    print(C, F)",
+            "C. C = -20\nwhile C < 40:\n    F = 9 / 5 * C + 32\n    print(C, F)\n    C = C + 3",
+            "D. C = -20\nwhile C <= 40:\n    F = 9 / 5 * C + 32\n    print(C, F)\n    C = C + 5",
+            "E. for C in range(-20, 40):\n    F = 9 / 5 * C + 32\n    print(C, F)"
+        ]
+    },
+    {
+        "concept_id": "the-while-loop",
+        "question": "Consider the following code for incrementally computing the sum of all the integers from 1 up to and including a certain number n, using a while loop:\n\n```python\nn = 5\ns = 0\nk = 1\nwhile ___________:\n    s = s + k\n    k = k + 1\nprint(s)\n```\nWhich of the following expressions appropriately fills in the blank so that this code correctly computes the sum 1 + 2 + ... + n for any positive integer n, and why? Select the best answer and justify whether the stopping condition is subtle or obvious in this case.",
+        "choices": [
+            "A. k <= n",
+            "B. s <= n",
+            "C. k < n",
+            "D. k == n",
+            "E. k >= n"
+        ]
+    },
+    {
+        "concept_id": "lists-in-python",
+        "question": "Consider the following Python code:\n\nC = [0, 2, 4, 6, 8, 10, 12, 14, 16]\nC.insert(2, 99)\ndel C[-3]\nC = C + [18, 20]\n\nAfter executing these statements, what is the value of C[5:8]?\n\nA) [8, 10, 12]\nB) [8, 10, 14]\nC) [10, 12, 14]\nD) [10, 12, 18]\nE) [12, 14, 16]",
+        "choices": [
+            "A. [8, 10, 12]",
+            "B. [8, 10, 14]",
+            "C. [10, 12, 14]",
+            "D. [10, 12, 18]",
+            "E. [12, 14, 16]"
+        ]
+    },
+    {
+        "concept_id": "for-loops-and-list-iteration",
+        "question": "Suppose you are given a list temperatures = [15, 18, 20, 22, 21], representing daily average temperatures in Celsius. You want to compute a new list that contains the temperature difference from the previous day (i.e., for each day except the first, subtract the previous day's temperature from the current day's temperature). Which of the following Python code snippets correctly constructs such a list of differences?",
+        "choices": [
+            "A. differences = []\nfor i in range(1, len(temperatures)):\n    diff = temperatures[i] - temperatures[i-1]\n    differences.append(diff)",
+            "B. differences = []\nfor t in temperatures:\n    diff = t - temperatures[0]\n    differences.append(diff)",
+            "C. differences = []\nfor i in range(len(temperatures)):\n    diff = temperatures[i+1] - temperatures[i]\n    differences.append(diff)",
+            "D. differences = []\nfor t in temperatures[1:]:\n    diff = t - t\n    differences.append(diff)",
+            "E. differences = []\nfor t in temperatures:\n    if t != temperatures[0]:\n        diff = t - temperatures[-1]\n        differences.append(diff)"
+        ]
+    },
+    {
+        "concept_id": "list-comprehensions",
+        "question": "You are asked to implement the function 'calculate_pi(n)' that approximates \\( \\pi \\) via its Gregory-Leibniz series. Consider Step 3, which requires you to create a list of the first n terms of the series, each term being ±1/odd_number according to its position. Which of the following Python list comprehensions correctly creates this list, assuming 'odds' is a list of the first n odd integers and 'signs' is a list of alternating signs [1, -1, 1, ...] (as per Steps 1 and 2)?",
+        "choices": [
+            "A. terms = [signs[i] / odds[i] for i in range(n)]",
+            "B. terms = [1 / odds[i] if i % 2 == 0 else -1 / odds[i] for i in range(n)]",
+            "C. terms = [odds[i] * signs[i] for i in range(n)]",
+            "D. terms = [(-1)**i / odds[i] for i in odds]",
+            "E. terms = [(i + 1) / (signs[i] * odds[i]) for i in range(n)]"
+        ]
+    }
+]

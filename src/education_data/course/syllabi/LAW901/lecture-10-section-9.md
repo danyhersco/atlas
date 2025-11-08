@@ -1,0 +1,1 @@
+Public law is in continuous transformation, adapting to rapid changes in technology, society, and global governance. Understanding its principles equips us not just to analyze institutions and rights, but, ultimately, to contribute thoughtfully to their ongoing development. Thank you for your engagement throughout the course.

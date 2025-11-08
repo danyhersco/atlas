@@ -1,0 +1,3 @@
+Federalism is one of the most significant principles in structuring modern states, and it profoundly affects how power is distributed and exercised within countries. In this lecture, we will explore the concept of federalism, how powers are allocated between different levels of government, the nature of intergovernmental relations, and analyze various federal systems through case studies. This lecture builds on your understanding of constitutions, separation of powers, and the judiciary’s role within public law.
+
+---

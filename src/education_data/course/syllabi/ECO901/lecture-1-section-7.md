@@ -1,0 +1,3 @@
+- **Policy relevance:** Helps design effective fiscal and monetary policies.
+- **Understanding economic performance:** Informs how and why economies succeed or struggle.
+- **Global citizenship:** Macro trends like globalization, recessions, and inflation impact everyone.

@@ -1,0 +1,629 @@
+[
+    {
+        "concept_id": "defining-macroeconomics",
+        "question": "Suppose you are tasked with advising a government during a period of rising unemployment and falling national output. Which of the following approaches best demonstrates the application of macroeconomic principles, as opposed to microeconomic principles?",
+        "choices": [
+            "A. Analyzing how aggregate government spending and changes in national interest rates might affect overall unemployment and output.",
+            "B. Examining the pricing strategy of a major technology firm to determine its competitive advantage.",
+            "C. Studying the decision-making process of households when choosing which food products to purchase at the grocery store.",
+            "D. Investigating the impact of a single company's layoffs on the local labor market.",
+            "E. Assessing how two rival companies compete over market share in the smartphone industry."
+        ]
+    },
+    {
+        "concept_id": "microeconomics-vs-macroeconomics",
+        "question": "Suppose an economist wants to study the effects of a new government minimum wage policy. In doing so, she first evaluates how an individual coffee shop adjusts its employment and pricing, and later examines how the policy influences national unemployment statistics. Based on your understanding of microeconomics and macroeconomics, which sequence correctly identifies the applicable branch of economics for each analysis step?",
+        "choices": [
+            "A. The coffee shop analysis is microeconomics; the national unemployment analysis is macroeconomics.",
+            "B. Both analyses are examples of microeconomics since they consider effects on employment.",
+            "C. Both analyses are examples of macroeconomics because a government policy is involved.",
+            "D. The coffee shop analysis is macroeconomics; the national unemployment analysis is microeconomics.",
+            "E. Neither analysis belongs to economics since they relate to sociology."
+        ]
+    },
+    {
+        "concept_id": "essential-macroeconomic-questions",
+        "question": "Suppose a country experiences a sustained increase in real GDP per capita over several years, but the rate of inflation also rises. Using macroeconomic principles, analyze which factors below could simultaneously explain both rising output and rising prices. Select the most comprehensive explanation, and briefly justify why the other options are less complete.",
+        "choices": [
+            "A. A combination of rapid technological innovation driving growth, alongside expansionary fiscal and monetary policies increasing aggregate demand.",
+            "B. Only increased labor force participation leading to more output, with no changes in demand.",
+            "C. An improvement in export performance due to global trade agreements, resulting in growth but not necessarily higher inflation.",
+            "D. A decline in productivity due to outdated technology, paradoxically driving prices up but reducing output.",
+            "E. Government-imposed price controls causing inflation statistics to be artificially high, despite stagnant or declining output."
+        ]
+    },
+    {
+        "concept_id": "macroeconomic-indicators-intro",
+        "question": "Suppose Country A experienced the following last year: an increase in the total value of goods and services produced, a rise in the percentage of the labor force without employment, a moderate rise in the average price level, and a decrease in the cost of borrowing money. Match each scenario to the appropriate macroeconomic indicator and explain the economic impact if these trends happened simultaneously.",
+        "choices": [
+            "A. GDP, Unemployment Rate, Inflation Rate, Interest Rate; Economic growth with higher joblessness, mild inflation, and easier borrowing conditions may indicate uneven distribution of growth benefits.",
+            "B. Interest Rate, GDP, Inflation Rate, Unemployment Rate; Easier borrowing, booming production, mild inflation, and lower unemployment suggest a booming economy across all fronts.",
+            "C. Inflation Rate, Unemployment Rate, GDP, Interest Rate; Rising prices, joblessness, increased production, and higher borrowing costs likely point to an overheating economy.",
+            "D. Unemployment Rate, GDP, Interest Rate, Inflation Rate; Shrinking employment, greater production, lower borrowing costs, and unchanged prices may mean misreported statistics.",
+            "E. GDP, Inflation Rate, Interest Rate, Unemployment Rate; Greater output, rising prices, falling borrowing costs, declining unemployment imply a healthy, booming economy."
+        ]
+    },
+    {
+        "concept_id": "gdp-calculation-example",
+        "question": "A small economy produces only two goods: wheat and cars. In a given year, the economy produces 2,000 tons of wheat at $3 per ton and 20 cars at $15,000 per car. Assume there are no other goods or services produced, and all goods are sold at their listed prices. Using the expenditure approach, what is the GDP for this economy? Show your calculation steps and choose the correct result.",
+        "choices": [
+            "A. $306,000. First, calculate the market value of wheat (2,000 tons × $3 = $6,000), then the value of cars (20 × $15,000 = $300,000). Adding these gives $6,000 + $300,000 = $306,000.",
+            "B. $320,000. This value is obtained by multiplying wheat production by car price, then summing (2,000 × $15,000 + 20 × $3).",
+            "C. $30,000. Add wheat (2,000 × $3 = $6,000) and cars (20 × $1,200 = $24,000) for a total of $30,000.",
+            "D. $6,000. Only consider wheat production and ignore car production as a durable good.",
+            "E. $300,000. Only the value of cars is counted, as they are considered investment goods."
+        ]
+    },
+    {
+        "concept_id": "importance-of-studying-macroeconomics",
+        "question": "Imagine a scenario where a worldwide pandemic disrupts both national and global economies. Which aspect best illustrates why studying macroeconomics is crucial for governments and individuals in responding to such a crisis?",
+        "choices": [
+            "A. Macroeconomics provides tools for designing coordinated fiscal and monetary policies that mitigate economic downturns during global disruptions.",
+            "B. Macroeconomics is limited to analyzing only small-scale financial decisions, such as personal budgeting.",
+            "C. Studying macroeconomics is mainly relevant to private businesses and has little impact on public policy.",
+            "D. Macroeconomics focuses solely on historical trends and does not address real-time economic fluctuations.",
+            "E. Understanding macroeconomic principles is unnecessary for interpreting the effects of globalization on everyday lives."
+        ]
+    },
+    {
+        "concept_id": "gdp-definition-and-calculation",
+        "question": "Suppose the country of Macroland has the following annual data (in billions): households' consumption expenditure (C) is $4,500, firms' investment expenditure (I) is $900, government purchases (G) amount to $1,100, exports (X) total $650, and imports (M) are $850. Meanwhile, the following income data are available: Wages $4,200, Rents $200, Interest $180, Profits $500, Indirect Taxes less subsidies $120, and Depreciation $50. If both approaches are calculated accurately with no statistical discrepancies, which of the following statements is correct based on the GDP calculation methods described?",
+        "choices": [
+            "A. Both the expenditure and income approaches should yield the same GDP value, which is $6,300 billion.",
+            "B. The expenditure approach yields a higher GDP than the income approach because export earnings are often underestimated.",
+            "C. The income approach would exclude government purchases, making its GDP estimate lower than that of the expenditure approach.",
+            "D. GDP calculated by the production approach would likely exceed that by the income approach due to market value fluctuations.",
+            "E. The expenditure approach will not include depreciation, so it gives a lower GDP than the income approach."
+        ]
+    },
+    {
+        "concept_id": "nominal-versus-real-gdp",
+        "question": "Suppose a country produces only one good, widgets. In Year 1, it produces 100 widgets at $5 each. In Year 2, it produces 110 widgets at $6 each. Using Year 1 as the base year, which of the following statements best interprets the changes in GDP and the GDP deflator between the years? Show your reasoning and calculations.",
+        "choices": [
+            "A. Nominal GDP increased by $260 due to both quantity and price changes, but real GDP (Year 2 in Year 1 prices) increased only by $50, reflecting pure output growth. The GDP deflator for Year 2 is 132, showing a 32% rise in price level.",
+            "B. Nominal GDP increased by $60 due only to price changes, and real GDP did not change. The GDP deflator stayed at 100, indicating no inflation.",
+            "C. Nominal GDP and real GDP increased equally, both by $100, because price changes were insignificant. The GDP deflator for Year 2 is 110.",
+            "D. Only real GDP increased, because quantity increased but prices fell. The GDP deflator for Year 2 is less than 100, showing deflation.",
+            "E. Nominal GDP increased, but real GDP decreased because the price per widget increased more than the output did. The GDP deflator for Year 2 is below 100."
+        ]
+    },
+    {
+        "concept_id": "gdp-limitations-and-alternatives",
+        "question": "Suppose Country X has a high GDP growth rate, but recent reports show rising income inequality and worsening environmental conditions. Based on your knowledge of GDP’s limitations and alternative measures, which indicator would best address BOTH these concerns, and why?",
+        "choices": [
+            "A. Genuine Progress Indicator (GPI) because it adjusts for income distribution and environmental costs, providing a more holistic assessment of well-being.",
+            "B. GDP per capita because dividing GDP by population reveals differences in living standards.",
+            "C. Net National Product (NNP) because it accounts for depreciation of capital assets.",
+            "D. Gross National Product (GNP) because it includes income earned by residents abroad.",
+            "E. Human Development Index (HDI) because it emphasizes education and life expectancy."
+        ]
+    },
+    {
+        "concept_id": "other-national-income-accounts",
+        "question": "Suppose Country X has the following statistics for a given year: GDP is $900 billion, net income earned from abroad is $50 billion, depreciation is $120 billion, indirect business taxes are $80 billion, corporate income taxes are $40 billion, undistributed corporate profits are $20 billion, social security contributions are $30 billion, personal taxes are $140 billion. Using these figures, what is Country X's Disposable Personal Income (DPI)? Show your reasoning by following the hierarchy from GDP down to DPI.",
+        "choices": [
+            "A. $570 billion. First, GDP + net income from abroad = GNP ($900B+$50B = $950B). GNP - depreciation = NNP ($950B-$120B=$830B). NNP - indirect business taxes = NI ($830B-$80B=$750B). NI - corporate income taxes, undistributed profits, social security contributions = PI ($750B-$40B-$20B-$30B=$660B). PI - personal taxes = DPI ($660B-$140B=$520B). DPI = $520 billion.",
+            "B. $660 billion. Found by subtracting all business taxes and contributions from NI, without accounting for depreciation.",
+            "C. $800 billion. By only considering GDP and net income from abroad, ignoring further deductions.",
+            "D. $950 billion. By equating GNI with DPI, not considering deductions for taxes and contributions.",
+            "E. $430 billion. Erroneously double-subtracting both personal and business taxes from PI."
+        ]
+    },
+    {
+        "concept_id": "gdp-calculation-practice",
+        "question": "Country Y reports the following data for the year: Consumer Spending: $400 billion, Investment: $120 billion, Government Purchases: $150 billion, Exports: $90 billion, Imports: $70 billion. Without a calculator, determine the GDP using the expenditure approach and choose the correct answer below.",
+        "choices": [
+            "A. $690 billion",
+            "B. $860 billion",
+            "C. $760 billion",
+            "D. $790 billion",
+            "E. $830 billion"
+        ]
+    },
+    {
+        "concept_id": "inflation-definition-and-types",
+        "question": "Suppose a country is experiencing a sustained decrease in the general price level of goods and services over several years. At the same time, the government reports a negative percentage change in its official consumer price index each year. Which of the following BEST describes this economic phenomenon, and what are its potential implications for consumers and businesses?",
+        "choices": [
+            "A. This is deflation, which increases the real value of money but can decrease consumer spending and investment as people expect further declines in prices.",
+            "B. This is creeping inflation, characterized by low and steady price increases, which encourages moderate consumer spending and business planning.",
+            "C. This is galloping inflation, where consumers and businesses must quickly adjust to rapid price increases, often leading to instability in contracts and wages.",
+            "D. This is hyperinflation, causing currency collapse and forcing people to rely on bartering or foreign currencies for transactions.",
+            "E. This is a temporary market correction, with no systematic impact on most consumers or business planning."
+        ]
+    },
+    {
+        "concept_id": "measuring-inflation-via-cpi-and-ppi",
+        "question": "A city’s CPI is constructed from a basket that includes 8 units of rice, 6 gallons of milk, and 10 dozen eggs. Prices in the base year are $1.00 per unit of rice, $2.50 per gallon of milk, and $1.20 per dozen eggs. In the current year, prices are $1.08 for rice, $2.70 for milk, and $1.30 for eggs. After constructing the CPI for the current year (using the base year as reference), an analyst seeks to evaluate the limitations of the CPI as a measure of cost of living. Which of the following situations best demonstrates the substitution bias affecting the CPI, given a rise in egg prices and the existence of cheaper protein alternatives?",
+        "choices": [
+            "A. Consumers begin buying more beans and fewer eggs when the price of eggs rises, but the CPI continues to use the original quantities from the base year's basket, overstating cost of living.",
+            "B. Egg producers improve their farming techniques, and eggs become more nutritious, but the CPI only reflects higher prices and not improved quality.",
+            "C. A new kind of plant-based milk becomes popular, but it is not included in the CPI basket, so changes in its price don't affect the CPI.",
+            "D. The price of rice fluctuates seasonally, causing short-term spikes reflected in the monthly CPI, but not necessarily affecting long-term living costs.",
+            "E. Some households spend significantly more on milk than others, leading to different individual inflation experiences than the CPI average."
+        ]
+    },
+    {
+        "concept_id": "consequences-of-inflation",
+        "question": "Consider an economy where inflation unexpectedly rises to 12% while all loan contracts were signed based on a 3% expected inflation rate. A firm borrows $50,000 at a nominal interest rate of 4%. \n\nA. Analyze how this unanticipated inflation impacts the real value of repayments.\nB. Identify the party (borrower or lender) that benefits and the mechanisms responsible for this outcome.\nC. Discuss at least two additional economic consequences that might arise from such a surprise inflation—beyond simple redistribution—using evidence from the learnable content.",
+        "choices": [
+            "A. A. The borrower benefits because they repay the loan with money worth less in real terms. The lender loses, as the real value of interest and principal is eroded by higher-than-expected inflation. Additional consequences include increased uncertainty about future prices, leading to reduced investment, and distortion of price signals, making it difficult for businesses to interpret market trends.",
+            "B. B. The lender benefits because their interest earnings rise with inflation, and the borrower loses as they have to pay back more in real terms. This scenario creates certainty in planning and encourages long-term investments.",
+            "C. C. Both borrower and lender are unaffected by the inflation surprise since the nominal interest rate adjusts automatically with actual inflation, nullifying any redistribution effects. Additionally, menu costs are the primary concern for businesses in the short run.",
+            "D. D. The borrower is harmed while the lender gains because higher inflation increases the nominal value of repayments. This scenario discourages speculative investments and reduces menu costs.",
+            "E. E. Neither party is affected since the money supply remains constant, and changes in inflation are always anticipated. The main consequence is that shoe leather costs will decrease as inflation encourages higher cash holdings."
+        ]
+    },
+    {
+        "concept_id": "real-versus-nominal-values",
+        "question": "Suppose a country's nominal GDP in 2022 is $594 billion and its CPI for 2022 is 120 (base year is 2020, CPI=100). Using the appropriate formula, what is the real GDP for 2022 in base-year dollars, and what does this adjustment reveal about the GDP growth compared to the nominal data?",
+        "choices": [
+            "A. The real GDP for 2022 is $495 billion, showing that after adjusting for inflation, GDP growth from 2021 to 2022 is less than what nominal figures suggest.",
+            "B. The real GDP for 2022 is $605 billion, indicating that GDP grew faster than nominal values suggest.",
+            "C. The real GDP for 2022 is $495 billion, demonstrating that nominal GDP underestimates growth due to inflation.",
+            "D. The real GDP for 2022 is $718.8 billion, highlighting accelerated economic growth after adjustment.",
+            "E. The real GDP for 2022 is $594 billion, showing inflation had no effect on GDP interpretatiion."
+        ]
+    },
+    {
+        "concept_id": "introduction-to-unemployment",
+        "question": "Suppose Country A experiences a sudden increase in its unemployment rate, but the number of people who are discouraged workers also rises sharply. How might this affect the interpretation of the official unemployment rate, and why does understanding this limitation reveal the importance of unemployment as an economic indicator?",
+        "choices": [
+            "A. The official unemployment rate may understate the true extent of labor market distress, emphasizing the importance of considering broader labor force measures when assessing economic health.",
+            "B. The unemployment rate would automatically include discouraged workers, thus accurately reflecting all jobless individuals.",
+            "C. A rising unemployment rate always means the economy is performing worse, regardless of changes in the participation rate.",
+            "D. Higher unemployment rates discourage measurement errors, making the indicator more reliable during downturns.",
+            "E. Discouraged workers are double-counted, which can inflate the reported unemployment rate and mislead policymakers."
+        ]
+    },
+    {
+        "concept_id": "labor-market-statistics",
+        "question": "Suppose a country has the following population statistics:\n\n- Adult population: 2,500,000\n- Employed: 1,600,000\n- Unemployed: 200,000\n- 700,000 adults are neither employed nor actively seeking work.\n\nBased on this information, determine which individual below WOULD be counted as unemployed according to the definitions provided in labor market statistics.\n\nA. Anna, who is 22, has no job, is available for work, and has sent out several job applications in the past month.\nB. Marc, who is 35, has no job, wants to work, but gave up looking because he believes no jobs are available.\nC. Linda, who is 68, retired from her job and does not intend to work again.\nD. Daniel, who is 19, studies full-time and is not seeking employment.\nE. Maria, who has a part-time job for which she is paid and is also looking for a better job.",
+        "choices": [
+            "A. Anna, who is 22, has no job, is available for work, and has sent out several job applications in the past month.",
+            "B. Marc, who is 35, has no job, wants to work, but gave up looking because he believes no jobs are available.",
+            "C. Linda, who is 68, retired from her job and does not intend to work again.",
+            "D. Daniel, who is 19, studies full-time and is not seeking employment.",
+            "E. Maria, who has a part-time job for which she is paid and is also looking for a better job."
+        ]
+    },
+    {
+        "concept_id": "measuring-unemployment-rate",
+        "question": "A country has an adult population of 2,500,000. Of these, 1,720,000 are employed and 130,000 are unemployed. After a recession, 50,000 of the unemployed workers stop looking for work and are no longer counted in the labor force. Without recalculating the unemployment rate, analyze how the unemployment rate and labor force participation rate change due to this event. What is the correct interpretation given the unemployment rate formula and its limitations?",
+        "choices": [
+            "A. The unemployment rate will decrease because the number of unemployed falls, but this does not reflect an improvement in job opportunities; the labor force participation rate will also decrease.",
+            "B. The unemployment rate will remain unchanged because discouraged workers are ignored; only the labor force participation rate will decrease.",
+            "C. The unemployment rate will increase because fewer people are employed, and the labor force participation rate will rise.",
+            "D. Both unemployment rate and labor force participation rate will increase because fewer people are counted as employed and the adult population stays the same.",
+            "E. The unemployment rate will accurately reflect all labor market distress, and the labor force participation rate will remain unchanged."
+        ]
+    },
+    {
+        "concept_id": "types-of-unemployment",
+        "question": "Suppose that in a country undergoing rapid technological transformation, many workers in the coal mining industry are being replaced by automated drilling machines. At the same time, the country enters a recession, leading to decreased demand for goods and services and widespread layoffs across various sectors, including retail and restaurants. Meanwhile, recent university graduates are actively searching for jobs as they enter the labor market, and farm workers are temporarily unemployed after the harvest season ends. \n\nIf the government wants to design policies that effectively target each type of unemployment described above, which of the following policy measures directly addresses structural unemployment, and why is it more appropriate for that type than for cyclical, frictional, or seasonal unemployment?\n",
+        "choices": [
+            "A. A job retraining program for displaced coal miners, since they need new skills to transition into emerging industries.",
+            "B. Providing extended unemployment benefits to workers laid off due to decreased demand during the recession.",
+            "C. Organizing job fairs for recent graduates entering the workforce for the first time.",
+            "D. Offering temporary income support to farm workers during the off-season.",
+            "E. Implementing public works projects to temporarily employ workers during economic downturns."
+        ]
+    },
+    {
+        "concept_id": "shortrun-vs-longrun-unemployment",
+        "question": "Suppose a country experiences a sharp rise in unemployment following a severe recession, but after several years of robust economic growth, the unemployment rate remains well above levels seen before the recession. Which of the following best explains the persistence of high unemployment in the long run, and what type of unemployment does this represent?",
+        "choices": [
+            "A. This persistence likely reflects an increase in structural unemployment due to long-term changes in the economy, such as technological shifts or changes in industry demand.",
+            "B. It is due to a continued decrease in aggregate demand, indicating that unemployment remains entirely cyclical.",
+            "C. It is the result of frictional unemployment only, implying workers are simply in transition between jobs at a normal pace.",
+            "D. It demonstrates that the natural rate of unemployment must have decreased permanently due to more efficient job matching.",
+            "E. It shows that unemployment can be eliminated entirely if the government stimulates demand indefinitely."
+        ]
+    },
+    {
+        "concept_id": "unemployment-insurance-effect",
+        "question": "Consider an economy with a newly implemented, generous unemployment insurance program. Which of the following best explains the potential macroeconomic consequences of this policy?",
+        "choices": [
+            "A. Unemployment insurance increases the welfare of unemployed workers by providing income security but may also lead to a higher measured unemployment rate by increasing the duration of job searches.",
+            "B. Unemployment insurance reduces both the measured unemployment rate and the welfare of unemployed workers due to lower income replacement.",
+            "C. Unemployment insurance programs have no measurable effect on either unemployment rates or worker welfare in the long run.",
+            "D. Unemployment insurance primarily benefits employers by reducing their labor costs and has little impact on unemployment rates.",
+            "E. The implementation of unemployment insurance always leads to both lower unemployment rates and higher productivity among workers."
+        ]
+    },
+    {
+        "concept_id": "introduction-to-adas-model",
+        "question": "Suppose a country experiences a sudden decrease in consumer confidence, leading to a reduction in household spending. Using the AD-AS model as described, which of the following best explains the short-run effect on the economy?",
+        "choices": [
+            "A. Aggregate demand shifts to the left, causing both output (GDP) and the price level to decrease in the short run.",
+            "B. Aggregate supply shifts to the right, increasing GDP and lowering the price level.",
+            "C. Aggregate supply shifts to the left, resulting in higher inflation and lower GDP.",
+            "D. Aggregate demand shifts to the right, raising both GDP and the price level.",
+            "E. Aggregate demand remains unchanged, but aggregate supply shifts left, resulting in stagflation."
+        ]
+    },
+    {
+        "concept_id": "aggregate-demand-and-determinants",
+        "question": "Suppose an economy experiences a sudden increase in government spending ($G$), a rise in consumer confidence, and a simultaneous appreciation of its currency relative to its trading partners. Based on the determinants of aggregate demand and the effects described, how would these three events jointly affect the position of the aggregate demand (AD) curve, and why?",
+        "choices": [
+            "A. The AD curve will shift rightward, but the extent of the shift depends on whether the negative impact of the currency appreciation on net exports ($NX$) offsets the positive effects of increased $G$ and consumption.",
+            "B. The AD curve will shift unambiguously to the right because all components are increasing.",
+            "C. The AD curve will not shift because the effects cancel each other out completely.",
+            "D. The AD curve will shift leftward since currency appreciation is the dominant effect.",
+            "E. The AD curve’s shape will change, but its position will not shift, as these determinants only alter the slope."
+        ]
+    },
+    {
+        "concept_id": "aggregate-supply-short-run-vs-long-run",
+        "question": "Suppose an unexpected surge in oil prices suddenly increases production costs across the economy. In the short run, wages remain unchanged due to contracts and negotiation lags. Which of the following best describes the resulting impact on the aggregate supply curves and the reasoning behind it?",
+        "choices": [
+            "A. The SRAS curve will shift leftward because higher input costs reduce profits at each price level, but the LRAS will remain unchanged since potential output determined by resources and technology is unaffected.",
+            "B. Both the SRAS and LRAS curves will shift leftward because higher input costs make it impossible to reach previous production levels, even in the long run.",
+            "C. The SRAS curve becomes vertical like the LRAS, as all prices are immediately flexible in response to shocks.",
+            "D. The LRAS curve shifts rightward due to firms investing more to offset higher oil prices, while SRAS remains in place.",
+            "E. Neither curve shifts, as aggregate supply only responds to changes in final goods prices, not input costs."
+        ]
+    },
+    {
+        "concept_id": "macroeconomic-equilibrium-and-output-gaps",
+        "question": "Given the following equations for an economy’s aggregate demand (AD) and short-run aggregate supply (SRAS):\n\nAD:    Y = 12,000 - 300P\nSRAS:  Y = 2,000 + 200P\n\nSuppose the long-run aggregate supply (LRAS), or potential output, is Y* = 7,000. Using this information, which of the following best describes the economy’s short-run equilibrium and the nature of its output gap? Show your reasoning.",
+        "choices": [
+            "A. At equilibrium, output is 7,600 and the price level is 14. This output exceeds potential (Y*), creating an inflationary gap.",
+            "B. At equilibrium, output equals potential output (Y = Y* = 7,000), so there is no output gap.",
+            "C. At equilibrium, output is 6,500 and the price level is 20. This is below potential, indicating a recessionary gap.",
+            "D. At equilibrium, the price level is 10 and output is 9,000, creating an inflationary gap.",
+            "E. Both AD and SRAS are vertical, so output gaps do not exist in this model."
+        ]
+    },
+    {
+        "concept_id": "shifts-in-adas-and-economic-shocks",
+        "question": "Suppose an economy is initially at long-run equilibrium. A sudden, sharp increase in oil prices occurs globally. Using the AD-AS model, which of the following best describes the likely immediate macroeconomic effects, and which policy would most directly counteract these effects in the short run?",
+        "choices": [
+            "A. SRAS shifts left, output falls while prices rise (stagflation); expansionary fiscal policy could counteract the output loss.",
+            "B. AD shifts right, output rises and prices fall; contractionary monetary policy is warranted to prevent overheating.",
+            "C. SRAS shifts right, output rises and prices fall; no policy response is needed as the economy self-stabilizes.",
+            "D. AD shifts left, output falls and prices fall; expansionary monetary policy is necessary to boost demand.",
+            "E. SRAS shifts left, both output and prices fall; contractionary fiscal policy best addresses these effects."
+        ]
+    },
+    {
+        "concept_id": "phases-of-business-cycle",
+        "question": "Suppose you are analyzing quarterly GDP growth rates for a country over 7 consecutive quarters: 1.2%, 1.5%, 0.5%, -0.8%, -1.1%, 0.2%, and 1.0%. If you were to label the phases of the business cycle for each quarter, which sequence correctly matches each quarter from Q1 to Q7?",
+        "choices": [
+            "A. Expansion, Expansion, Peak, Recession, Recession, Trough, Expansion",
+            "B. Expansion, Peak, Expansion, Recession, Trough, Expansion, Peak",
+            "C. Expansion, Expansion, Peak, Trough, Expansion, Peak, Expansion",
+            "D. Expansion, Peak, Recession, Recession, Trough, Expansion, Peak",
+            "E. Recession, Trough, Expansion, Peak, Recession, Expansion, Peak"
+        ]
+    },
+    {
+        "concept_id": "indicators-of-economic-activity",
+        "question": "Suppose economists observe the following three economic statistics: (A) an increase in building permits, (B) a rise in average weekly incomes, and (C) a sharp decrease in corporate profits. How should each statistic be classified among leading, coincident, and lagging indicators, and what reasoning supports their classification? Select the group of answers that matches the correct indicator for each statistic and explains the reasoning for each.",
+        "choices": [
+            "A. (A) Leading, (B) Coincident, (C) Lagging: Building permits tend to rise before economic expansion, average income reflects current conditions, and corporate profits usually adjust after the business cycle turns.",
+            "B. (A) Coincident, (B) Leading, (C) Lagging: Building permits reflect current demand, average income predicts future trends, and corporate profits lag behind cycles.",
+            "C. (A) Lagging, (B) Coincident, (C) Leading: Building permits respond slowly, income reflects present, and profits forecast future activity.",
+            "D. (A) Leading, (B) Lagging, (C) Coincident: Building permits predict cycles, average income adjusts slowly, and corporate profits reflect current outcomes.",
+            "E. (A) Coincident, (B) Lagging, (C) Leading: Building permits occur with economic expansions, average income lags, and profits anticipate changes."
+        ]
+    },
+    {
+        "concept_id": "business-cycle-theories",
+        "question": "Suppose an economy is experiencing a prolonged recession, with both output and employment significantly below potential, but inflation remains low. Government authorities are debating whether to implement a large stimulus bill involving increased public spending and monetary expansion. Based on the competing theories of business cycles, which theory would most directly support these proposed policies, and what distinctive reasoning would underlie its recommendation?",
+        "choices": [
+            "A. Keynesian Theory: It posits that recessions are driven by insufficient aggregate demand, and that active fiscal and monetary interventions are necessary to restore full employment given sticky prices and wages.",
+            "B. Classical Theory: It claims that markets will naturally self-correct, so government intervention is unnecessary and potentially harmful.",
+            "C. Austrian Theory: It would argue that stimulus policies worsen malinvestments and prolong the correction, favoring less intervention.",
+            "D. Monetarist Theory: While favoring stable money growth, it would be skeptical of large discretionary fiscal stimulus, focusing instead on predictable monetary policy.",
+            "E. Real Business Cycle (RBC) Theory: It sees downturns as efficient responses to real shocks, suggesting policy should not counteract these natural adjustments."
+        ]
+    },
+    {
+        "concept_id": "causes-of-economic-fluctuations",
+        "question": "Suppose a country experiences a sudden and sharp increase in oil prices due to geopolitical tensions abroad. At the same time, the central bank decides to lower interest rates to stimulate borrowing and investment. Which of the following best describes the types of economic shocks involved in this scenario, and explains their likely effects on the business cycle?",
+        "choices": [
+            "A. The increase in oil prices is a supply-side shock likely to increase production costs and inflation, while lower interest rates are a demand-side shock intended to boost aggregate demand; these opposing shocks may lead to unpredictable overall economic fluctuations.",
+            "B. Both the oil price increase and lower interest rates are demand-side shocks, and together they will always lead to a boom.",
+            "C. The oil price increase is an external shock, and the central bank’s action is a supply-side shock; both will necessarily cause a recession.",
+            "D. Both shocks are external in nature and will directly decrease consumer and business confidence only.",
+            "E. The increase in oil prices solely affects consumer confidence, and lower interest rates will have little impact on investment."
+        ]
+    },
+    {
+        "concept_id": "consequences-of-fluctuations",
+        "question": "During a severe recession, which combined set of economic and social changes most accurately reflects the broad consequences as described in macroeconomic theory?",
+        "choices": [
+            "A. Unemployment rises, national output contracts, firms reduce investment, inflation may turn to deflation, tax revenues decline, social spending rises, and population well-being worsens.",
+            "B. Unemployment falls, output expands, firms increase investment, inflation is subdued, tax revenues rise, and there is no significant impact on social spending or well-being.",
+            "C. Unemployment remains steady, output shifts depending on the sector, investment is unaffected, inflation increases, and government finances improve significantly.",
+            "D. All macroeconomic indicators, including employment and output, remain unchanged, but investment falls and inflation rises, causing government surpluses.",
+            "E. Unemployment falls, output contracts, investment rises, inflation turns to deflation, and government both raises tax revenues and reduces social spending."
+        ]
+    },
+    {
+        "concept_id": "great-recession-case-study",
+        "question": "Suppose you are tasked with explaining why the Great Recession is considered a textbook example of a business cycle downturn. Which of the following best demonstrates the interconnectedness between its cause and its global consequence, using your understanding of macroeconomic principles?",
+        "choices": [
+            "A. The collapse of the US housing bubble undermined financial institutions worldwide, leading to a contraction of credit and a synchronized fall in global output.",
+            "B. High oil prices led directly to reduced global profits, causing the banking system to collapse and governments to impose austerity measures.",
+            "C. Governments raised interest rates in anticipation of inflation, which then burst the housing bubble and prompted a contraction in global output.",
+            "D. The housing bubble burst only affected domestic US consumers and had little impact on international trade or employment.",
+            "E. Consumer confidence increased during the contraction, fueling an asset boom in other countries."
+        ]
+    },
+    {
+        "concept_id": "role-of-policy",
+        "question": "Suppose a country is experiencing a severe economic downturn: GDP is falling, unemployment is high, and consumer spending is weak. As a policy advisor, you are asked to recommend countercyclical measures. Which combination of fiscal and monetary policy actions would most directly aim to mitigate the contraction in the short term? Justify your answer based on their mechanisms.",
+        "choices": [
+            "A. Increase government spending and lower interest rates, to boost aggregate demand through both direct injections and cheaper borrowing.",
+            "B. Decrease government spending and raise interest rates, to prevent inflation and cool off the economy.",
+            "C. Increase government spending and raise interest rates, to stimulate demand but offset potential inflationary pressure.",
+            "D. Decrease government spending and lower interest rates, to maintain fiscal discipline while encouraging investment through cheaper credit.",
+            "E. Maintain current tax and interest rates, relying solely on automatic stabilizers to smooth the cycle."
+        ]
+    },
+    {
+        "concept_id": "definition-of-economic-growth",
+        "question": "Suppose a country achieves economic growth over a five-year period, but its population also grows significantly during that time. Which of the following best explains why focusing solely on the increase in total Real GDP might overstate the improvement in average living standards?",
+        "choices": [
+            "A. Because Real GDP per capita adjusts for population growth, offering a better reflection of changes in standards of living.",
+            "B. Because only short-run fluctuations are captured in Real GDP, not long-run trends.",
+            "C. Because Real GDP measurements ignore the effects of inflation on output values.",
+            "D. Because technological advances do not affect measured GDP, but do affect well-being.",
+            "E. Because increases in goods production always outweigh services, leading to biased GDP results."
+        ]
+    },
+    {
+        "concept_id": "measuring-growth-and-productivity",
+        "question": "Suppose the following data are available for two years in a country:\n\nYear 1:\n- Real GDP: $200 billion\n- Population: 50 million\n- Workers employed: 25 million\n\nYear 2:\n- Real GDP: $218 billion\n- Population: 51 million\n- Workers employed: 25.5 million\n\nWhich ONE of the following statements is MOST accurate based on the information above?",
+        "choices": [
+            "A. The growth rate of real GDP per capita is less than the growth rate of real GDP, and labor productivity increased from Year 1 to Year 2.",
+            "B. The growth rate of real GDP per capita is higher than the growth rate of real GDP, and labor productivity declined.",
+            "C. Labor productivity remained unchanged, but real GDP per capita growth was positive.",
+            "D. Both real GDP, real GDP per capita, and labor productivity grew at approximately the same rate.",
+            "E. Despite positive real GDP growth, labor productivity declined due to population growth."
+        ]
+    },
+    {
+        "concept_id": "determinants-of-economic-growth",
+        "question": "Suppose two countries, Country X and Country Y, both increase their investments in physical capital over the next decade. Country X has established strong legal institutions, encourages open trade, and continually invests in education and health, while Country Y experiences frequent political upheaval, restricts foreign trade, and underfunds education and healthcare. Based on your understanding of the determinants of economic growth, which country is more likely to achieve sustained increases in productivity and living standards, and why?",
+        "choices": [
+            "A. Country X, because growth is multi-faceted and depends not just on physical capital but also on institutions, human capital, and openness to trade.",
+            "B. Country Y, because physical capital investment alone is sufficient for sustained growth, regardless of other factors.",
+            "C. Country Y, because restricting trade protects local industries and leads to higher long-run growth.",
+            "D. Country X, but only because it has more physical capital, not due to its policies or institutions.",
+            "E. Both countries will achieve the same growth, as physical capital is the sole determinant."
+        ]
+    },
+    {
+        "concept_id": "technology-capital-and-growth-models",
+        "question": "Suppose Country X has the following annual growth rates over a decade: capital input grows by 1.5%, labor input grows by 0.5%, and total GDP grows by 4%. Assume capital and labor each contribute equally to output in a Cobb-Douglas production function. Using growth accounting, how much of output growth is attributable to technological progress (Total Factor Productivity, TFP)? Carefully demonstrate your reasoning, showing how the Solow model allows you to distinguish between the effects of capital deepening and technological change.",
+        "choices": [
+            "A. 2.25% TFP growth, because output growth minus the weighted sums of capital and labor growth leaves 2.25% unexplained, attributable to technology.",
+            "B. 3.0% TFP growth, because capital and labor contributions are minor, so most growth must be from technology.",
+            "C. 1.0% TFP growth, because capital deepening is the largest contributor.",
+            "D. 0% TFP growth, because capital and labor growth alone fully explain output growth.",
+            "E. 4% TFP growth, because all output growth is due to technology and capital/labor do not matter."
+        ]
+    },
+    {
+        "concept_id": "fiscal-policy-fundamentals",
+        "question": "Suppose an economy is experiencing a recession characterized by high unemployment and low consumer spending. The government is considering two possible actions: (1) increase infrastructure spending, or (2) raise income taxes. Based on the fundamentals of fiscal policy, which course of action aligns with traditional expansionary policy, and what is the expected effect?",
+        "choices": [
+            "A. Increase infrastructure spending, which would boost aggregate demand and help reduce unemployment.",
+            "B. Raise income taxes, which would reduce aggregate demand and worsen the recession.",
+            "C. Increase infrastructure spending, which would decrease aggregate demand and control inflation.",
+            "D. Raise income taxes, which would increase aggregate demand and stimulate economic growth.",
+            "E. Neither action would have any impact according to fiscal policy fundamentals."
+        ]
+    },
+    {
+        "concept_id": "government-spending-and-taxation",
+        "question": "Suppose the government increases its spending by $100 million on public infrastructure projects, with no change in taxes, imports, or exports. The marginal propensity to consume (MPC) is 0.75. Using your knowledge of fiscal policy, calculate the resulting change in aggregate output (GDP), and explain the reasoning behind the multiplier effect. Which outcome below is correct and why?",
+        "choices": [
+            "A. The GDP will increase by $400 million, because the simple spending multiplier is 1/(1 - MPC) = 1/(1 - 0.75) = 4, and $100 million × 4 = $400 million.",
+            "B. The GDP will increase by $750 million, because the total spending equals the initial amount times the MPC, or $100 million × 0.75 = $75 million, which is then multiplied again for repeat cycles.",
+            "C. The GDP will increase by $175 million, as only the initial spending and the first round of consumption matter, so $100 million + ($100 million × 0.75) = $175 million.",
+            "D. The GDP will increase by $100 million, since government spending directly adds to aggregate demand without further amplifying effects.",
+            "E. The GDP will increase by $133 million, because with diminishing returns the effect is less than twice the initial spending."
+        ]
+    },
+    {
+        "concept_id": "deficits-surpluses-and-public-debt",
+        "question": "Suppose a government starts Year 1 with public debt of $2,000 billion. During Year 1, government expenditures are $700 billion and tax revenues are $650 billion. In Year 2, tax revenues increase to $750 billion and expenditures decrease to $730 billion. If GDP in Year 2 is $5,000 billion, which of the following sequences correctly describes (in order): the deficit/surplus in each year, public debt at the start of Year 2, and the debt-to-GDP ratio at the start of Year 2?",
+        "choices": [
+            "A. Year 1: $50 billion deficit; Year 2: $20 billion surplus; Public debt at start of Year 2: $2,050 billion; Debt-to-GDP ratio: 41%",
+            "B. Year 1: $70 billion deficit; Year 2: $30 billion surplus; Public debt at start of Year 2: $2,070 billion; Debt-to-GDP ratio: 43%",
+            "C. Year 1: $50 billion surplus; Year 2: $20 billion deficit; Public debt at start of Year 2: $1,950 billion; Debt-to-GDP ratio: 39%",
+            "D. Year 1: $100 billion deficit; Year 2: $10 billion surplus; Public debt at start of Year 2: $2,100 billion; Debt-to-GDP ratio: 44%",
+            "E. Year 1: $60 billion deficit; Year 2: $20 billion deficit; Public debt at start of Year 2: $2,060 billion; Debt-to-GDP ratio: 42%"
+        ]
+    },
+    {
+        "concept_id": "fiscal-policy-impact-and-mechanisms",
+        "question": "Suppose a country is experiencing a sharp economic downturn. The government responds by increasing infrastructure spending and expanding unemployment benefits. Shortly after, interest rates in the market rise, private firms reduce investment, and the recession is not as mild as expected. Based on the mechanisms of fiscal policy, which explanation BEST accounts for these outcomes?",
+        "choices": [
+            "A. The expansionary fiscal policy increased aggregate demand, but government borrowing raised interest rates, leading to crowding out which offset some of the stimulus.",
+            "B. The new spending automatically adjusted via automatic stabilizers, limiting its effectiveness due to lags in policy response.",
+            "C. The contraction of private investment caused a reduction in aggregate supply, directly causing the downturn.",
+            "D. Implementation lags delayed both the impact of fiscal policy and the automatic stabilizers, leading to pro-cyclical results.",
+            "E. The increased unemployment benefits were offset by a proportional increase in taxes, nullifying the policy's effect."
+        ]
+    },
+    {
+        "concept_id": "fiscal-stimulus-case-study",
+        "question": "During the Global Financial Crisis of 2008-2009, governments worldwide implemented various fiscal stimulus measures. Suppose you are given data showing that a country increased government spending on infrastructure, provided tax cuts, and made direct payments to households. Based on empirical studies and real-world news analyses, which of the following best captures BOTH the intended effects and the unintended consequences observed with such fiscal stimulus interventions?",
+        "choices": [
+            "A. The interventions helped mitigate the severity of the recession but resulted in significantly higher public debt.",
+            "B. The interventions led to hyperinflation and economic contraction in the long term.",
+            "C. Only the infrastructure projects were effective, while tax cuts and direct payments had no observable impact.",
+            "D. The fiscal interventions immediately restored the pre-crisis growth rate with no lasting side effects.",
+            "E. Governments found it impossible to implement fiscal stimulus due to legislative gridlock."
+        ]
+    },
+    {
+        "concept_id": "monetary-policy-basics",
+        "question": "Suppose a central bank notices a rapid increase in inflation that exceeds its target and wants to use monetary policy to address the issue. Which of the following actions best illustrates how the central bank could use monetary policy tools to achieve its macroeconomic objective?",
+        "choices": [
+            "A. Raising interest rates to reduce money supply and curb inflation.",
+            "B. Decreasing government spending to reduce aggregate demand.",
+            "C. Lowering taxation rates to increase consumer spending.",
+            "D. Directly subsidizing key industries to stimulate output.",
+            "E. Implementing import tariffs to reduce foreign competition."
+        ]
+    },
+    {
+        "concept_id": "central-banks-and-mandates",
+        "question": "Suppose that in two major economies—Economy A and Economy B—the central banks set different key interest rates: Economy A's central bank raises rates significantly above those of Economy B. Using your understanding of central bank mandates and policies, analyze and reason through the likely impacts this interest rate difference will have on (a) the value of each country's currency, and (b) the balance of exports and imports for both economies. What is the primary mechanism behind these effects?",
+        "choices": [
+            "A. Higher interest rates in Economy A will likely strengthen its currency by attracting foreign capital, making imports cheaper and exports more expensive, potentially reducing its export volume and increasing imports; this occurs because investors seek higher returns, increasing demand for A's currency.",
+            "B. Economy A's currency will likely depreciate, making its exports cheaper and imports more expensive, thus improving its trade balance; this happens because higher rates decrease spending.",
+            "C. The interest rate difference has no significant effect on exchange rates or trade flows because central banks operate independently from government policies.",
+            "D. Both economies will experience inflation due to capital flows, causing their currencies to lose value equally.",
+            "E. Economy B will see its currency appreciate as investors move capital out of Economy A, improving its export competitiveness and reducing imports."
+        ]
+    },
+    {
+        "concept_id": "money-supply-and-tools",
+        "question": "A central bank wishes to reduce inflation without causing a financial crisis. It is deciding among using open market operations, altering the discount rate, or changing reserve requirements. Which tool should the central bank use, and how should it apply this tool to effectively decrease the money supply with minimal disruption? Use your reasoning about the mechanisms described in the course to select the most precise answer.",
+        "choices": [
+            "A. The central bank should sell government bonds through open market operations, which directly decreases the money supply by withdrawing funds from commercial banks.",
+            "B. It should sharply increase reserve requirements, forcing banks to hold more funds in reserve and drastically reducing their lending ability.",
+            "C. It should abruptly raise the discount rate to make borrowing for banks much more expensive, discouraging lending across the board.",
+            "D. It should buy government bonds in the open market, injecting more money into the economy and further stimulating inflation.",
+            "E. It should simultaneously lower both the discount rate and the reserve requirement, encouraging more borrowing and lending, which would increase the money supply."
+        ]
+    },
+    {
+        "concept_id": "interest-rates-effects",
+        "question": "Suppose the central bank unexpectedly raises its policy interest rate by 2 percentage points in response to rising inflation. Which of the following sequences best describes the likely immediate and subsequent effects on the domestic economy, according to the transmission mechanism of monetary policy?",
+        "choices": [
+            "A. Commercial banks increase their lending rates, which makes borrowing more expensive for consumers and firms; this reduces consumption and investment, leading to lower aggregate demand and eventually dampening inflation.",
+            "B. Commercial banks lower their lending rates due to increased central bank rates, making borrowing more attractive and immediately increasing consumption and investment.",
+            "C. Consumers react by increasing spending in anticipation of higher rates, leading to greater aggregate demand and accelerating inflation in the short run.",
+            "D. The currency depreciates due to higher interest rates, enhancing export competitiveness and causing aggregate demand to rise.",
+            "E. Firms respond to the higher policy rate by immediately increasing investment to lock in low rates, pushing aggregate demand and inflation higher."
+        ]
+    },
+    {
+        "concept_id": "monetary-policy-in-economy",
+        "question": "Suppose the economy is experiencing a period of rising unemployment and inflation is well below the central bank's target. Using the AD-AS model, which sequence of actions and expected outcomes most accurately describes an appropriate monetary policy, and what are the main risks associated with it?",
+        "choices": [
+            "A. The central bank lowers interest rates and/or increases the money supply, shifting the aggregate demand curve to the right, increasing output and employment; the main risk is that if the economy exceeds capacity, inflation could rise rapidly.",
+            "B. The central bank raises interest rates and/or decreases the money supply, shifting the aggregate demand curve to the left, which lowers inflation but may worsen unemployment.",
+            "C. The central bank maintains the current interest rate and money supply, keeping aggregate demand stable to avoid destabilizing both unemployment and inflation.",
+            "D. The central bank focuses solely on controlling inflation by reducing the money supply, regardless of high unemployment, which risks a deeper recession but controls prices.",
+            "E. The central bank increases government spending and taxes simultaneously, aiming to keep aggregate demand constant with no effect on output or employment."
+        ]
+    },
+    {
+        "concept_id": "policy-limits-and-challenges",
+        "question": "A country is facing a severe economic downturn, with interest rates already at zero and people expecting inflation to increase due to expansionary monetary policy. Based on the course content, which of the following best explains why further interest rate cuts may not effectively stimulate the economy under these conditions, and what alternative action might central banks consider?",
+        "choices": [
+            "A. At zero interest rates, the economy is in a liquidity trap where further rate cuts have little impact on borrowing; additionally, if inflation expectations are anchored or rising, policy may lose credibility. In this case, central banks could consider unconventional measures such as quantitative easing or forward guidance.",
+            "B. Because central banks can always create demand by lowering rates, further cuts will automatically increase investment and consumption, so no alternative measures are needed.",
+            "C. Lower interest rates will decrease the exchange rate and cause excessive capital inflows, automatically restoring growth, so the central bank should focus on exchange rate stability instead of domestic growth.",
+            "D. Expectations are irrelevant if liquidity is provided, so central banks should simply continue cutting rates regardless of public beliefs, and austerity measures should be implemented to complement this.",
+            "E. Global spillovers mean that any policy will be offset by other countries’ actions, and thus monetary policy is always ineffective; the only solution is to halt all international capital flows."
+        ]
+    },
+    {
+        "concept_id": "recent-monetary-actions",
+        "question": "Suppose you are analyzing two major economic crises: the 2008 financial crisis and the COVID-19 pandemic in 2020. Describe how central banks responded in each situation, and identify a key similarity in their strategies that illustrates the use of unconventional monetary policies.",
+        "choices": [
+            "A. In both crises, central banks rapidly cut interest rates to near-zero and initiated large-scale asset purchases (quantitative easing) to increase money supply.",
+            "B. In both crises, the primary response was increasing reserve requirements to limit bank lending.",
+            "C. Central banks responded by raising interest rates and selling government securities to calm inflationary fears in both cases.",
+            "D. The main tool used in both crises was the direct distribution of cash to households without any asset market interventions.",
+            "E. Central banks focused on exchanging foreign currencies and fixing exchange rates in both crises as their main strategy."
+        ]
+    },
+    {
+        "concept_id": "open-market-operation-case",
+        "question": "Imagine the Federal Reserve conducts an open market purchase of $500 million in government bonds from commercial banks, and the reserve requirement is 5%. What is the maximum potential increase in the money supply resulting from this operation? Please select the correct answer based on the money multiplier effect and explain why in your reasoning.",
+        "choices": [
+            "A. $10 billion, because the money multiplier is 1 divided by the reserve requirement (1/0.05 = 20), and 20 × $500 million = $10 billion.",
+            "B. $2.5 billion, because the commercial banks will lend exactly five times the new reserves.",
+            "C. $25 billion, because the Fed adds $500 million to the money supply, which is then multiplied by the reserve requirement.",
+            "D. $1 billion, because each dollar deposited is only doubled.",
+            "E. $100 million, because the original purchase equals the increase in the money supply."
+        ]
+    },
+    {
+        "concept_id": "the-money-multiplier",
+        "question": "A central bank purchases $800 million in government securities. The reserve requirement is 12.5 percent. Using the concept of the money multiplier, determine the theoretical maximum increase in the money supply that could result from this transaction. Show your reasoning and calculation steps.",
+        "choices": [
+            "A. The money multiplier is 1/0.125 = 8. Therefore, the maximum increase in the money supply is $800 million × 8 = $6.4 billion.",
+            "B. The money multiplier is 1/0.125 = 10. The maximum increase is $800 million × 10 = $8 billion.",
+            "C. The money multiplier is 1/0.125 = 12.5. The maximum increase is $800 million × 12.5 = $10 billion.",
+            "D. The money multiplier is 1/0.20 = 5. The maximum increase is $800 million × 5 = $4 billion.",
+            "E. The money multiplier is 1/0.10 = 10. The maximum increase is $800 million × 10 = $8 billion."
+        ]
+    },
+    {
+        "concept_id": "macroeconomic-models-overview",
+        "question": "Suppose a country is experiencing persistent high unemployment and slow GDP growth despite lowering interest rates and increasing government spending. According to the main macroeconomic models introduced in class, which factor would MOST likely explain this situation, and how might globalization influence the effectiveness of these domestic policies?",
+        "choices": [
+            "A. Structural changes in the global economy, such as increased competition from abroad, may limit the effectiveness of domestic fiscal and monetary policies by shifting production and jobs overseas.",
+            "B. A temporary fall in consumer confidence, which will quickly reverse as the global cycle rebounds regardless of policy actions.",
+            "C. The sole influence of technology shocks within the country, making policy responses irrelevant until technology adjusts.",
+            "D. The inflexibility of exchange rates, suggesting monetary policy alone is always sufficient regardless of the international context.",
+            "E. A lack of coordination between fiscal and monetary policy, which globalization does not affect."
+        ]
+    },
+    {
+        "concept_id": "core-macroeconomic-models",
+        "question": "Suppose an economy is described by the following aggregate expenditure: AE = 400 + 0.75Y. The government increases its spending by 50 units. Using the Keynesian Cross model, calculate the new equilibrium level of output, and explain how the expenditure multiplier works in this context.",
+        "choices": [
+            "A. The new equilibrium output is 1800, and the expenditure multiplier is 1/(1 - 0.75) = 4. Thus, a 50-unit rise in government spending increases output by 200 units.",
+            "B. The new equilibrium output is 1700, with a multiplier effect of 1/(1 - 0.7) = 3.33, increasing output by 166.5 units.",
+            "C. The equilibrium output remains unchanged because government spending does not affect aggregate expenditure in this model.",
+            "D. The new equilibrium output is 2000, but the multiplier is absent due to the marginal propensity to consume being zero.",
+            "E. The new equilibrium output is 1600, and the multiplier is 2, so output increases by 100 units."
+        ]
+    },
+    {
+        "concept_id": "policy-evaluation-with-models",
+        "question": "During a liquidity trap, the central bank proposes a substantial increase in the money supply to stimulate output. Using IS-LM and AD-AS models, critically evaluate the predicted outcomes and identify two major limitations to policy effectiveness. Then, infer an innovative alternative fiscal or monetary approach that could address these limitations.",
+        "choices": [
+            "A. In the IS-LM and AD-AS models, increasing the money supply during a liquidity trap shifts the LM curve, but with interest rates near zero, output and employment may not rise. Two major limitations are the ineffectiveness of monetary policy at the zero lower bound and muted expectation responses. An alternative is direct fiscal stimulus—such as increased government spending—which can bypass monetary constraints and directly raise aggregate demand.",
+            "B. Models predict that increasing the money supply will always shift the LM curve and raise output, regardless of the interest rate environment. Limitations mainly involve potential technical implementation issues and central bank credibility. An alternative is to reduce government spending to avoid crowding out.",
+            "C. In the short run, increasing the money supply automatically leads to inflation and higher GDP, according to both IS-LM and AD-AS models. The major limitation is excessive inflation, and the alternative is tightening monetary policy to control prices.",
+            "D. IS-LM and AD-AS models indicate that monetary policy has unlimited effectiveness during a liquidity trap, and no significant limitations exist. The best alternative is tax reductions to further increase disposable income.",
+            "E. Increasing the money supply during a liquidity trap causes the LM curve to shift sharply, making monetary policy more powerful, but only when there's high consumer confidence. The alternative is to rely solely on international trade policies to stimulate aggregate demand."
+        ]
+    },
+    {
+        "concept_id": "recent-macroeconomic-trends",
+        "question": "Using the data for the fictional country, suppose you are a policy advisor in late 2021. Given the GDP contracted in 2021, unemployment rose sharply, but inflation remained low, which policy mix would best address these conditions? Provide reasoning based on the macroeconomic trends seen in advanced economies post-2020.",
+        "choices": [
+            "A. Expansionary fiscal policy (increase government spending/support) combined with a continued accommodative monetary policy to stimulate demand and job recovery, mirroring the policies of many advanced economies in response to the pandemic.",
+            "B. Contractionary fiscal policy (reducing government spending) alongside raising interest rates to combat low inflation.",
+            "C. Restrictive monetary policy (raising interest rates) while maintaining government support at 2020 levels.",
+            "D. Expansionary monetary policy (lowering interest rates further) but tightening fiscal policy to address rising public debt.",
+            "E. Neutrally balanced policies: avoid major changes in both fiscal and monetary stance to observe further data."
+        ]
+    },
+    {
+        "concept_id": "globalization-and-open-economy",
+        "question": "Consider an open economy using the Mundell-Fleming model. The government undertakes a large fiscal expansion by increasing government spending while operating under a floating exchange rate regime. Using concepts from open economy macroeconomics, analyze the likely sequence of macroeconomic effects. Which of the following best describes the expected outcomes, and why does fiscal policy become less effective under these conditions?",
+        "choices": [
+            "A. Government spending boosts output, but increased interest rates attract foreign capital, leading to currency appreciation, which reduces net exports and offsets the initial output gain, hence fiscal policy becomes less effective.",
+            "B. Government spending boosts output, and the currency depreciates, increasing net exports and amplifying the effects of fiscal expansion, making fiscal policy more effective.",
+            "C. Fiscal expansion under floating rates causes no change in net exports, as capital flows are perfectly offset by central bank interventions.",
+            "D. Increased government spending increases output, with no change in the exchange rate or capital flows due to perfect capital immobility.",
+            "E. Fiscal expansion in an open economy under floating exchange rates leads to a reduction in output due to automatic contractionary monetary policy."
+        ]
+    },
+    {
+        "concept_id": "summary-of-macroeconomic-models",
+        "question": "Suppose a government responds to a recession by significantly increasing public spending while the central bank keeps the money supply unchanged. Using the Keynesian Cross, IS-LM, and AD-AS models, which of the following most accurately describes the likely short-run macroeconomic effects and a key limitation these models reveal about this policy approach?",
+        "choices": [
+            "A. Output and income will rise in the short run (Keynesian Cross/IS-LM), but in the AD-AS model, if the economy is near full capacity, inflationary pressures may result; a key limitation is that these models often ignore dynamic supply-side adjustments and global capital flows.",
+            "B. Only the interest rate will change, with output remaining constant across all models because public spending is offset by private investment crowding out.",
+            "C. The Solow model predicts permanent growth due to public spending, and the Keynesian Cross confirms output will not change unless savings rates adjust.",
+            "D. Both output and prices remain completely unaffected in all models because monetary policy is inactive, so fiscal policy is neutralized.",
+            "E. Open economy models show that fiscal expansion will always fully translate into higher exports and trade surplus, validating the policy's effectiveness."
+        ]
+    }
+]

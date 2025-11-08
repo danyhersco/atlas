@@ -1,0 +1,2 @@
+- **2008 Financial Crisis**: Central banks slashed interest rates and undertook "quantitative easing" (buying large quantities of assets) to inject money into the economy.
+- **COVID-19 Pandemic**: In 2020, the Fed again cut rates to near-zero and purchased government securities at an unprecedented pace.

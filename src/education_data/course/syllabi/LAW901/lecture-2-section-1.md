@@ -1,0 +1,3 @@
+Building upon our introduction to public law, today’s lecture explores the historical context, origins, and evolution of public law in society. We will trace the development through different legal traditions, examine how public law aligns with the rise of democratic institutions, and highlight major legal milestones that have shaped the modern legal landscape. Understanding these foundations is essential to realizing why and how public law functions as it does today.
+
+---

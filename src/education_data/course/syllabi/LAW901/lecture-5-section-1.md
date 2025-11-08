@@ -1,0 +1,1 @@
+Courts occupy a foundational position within systems of public law, serving as the interpreters of constitutions, the arbiters in disputes between individuals and the state, and as key actors in upholding the principles of constitutional government. Their decisions can have wide-ranging impacts on policy, rights, and the balance of powers among branches of government.

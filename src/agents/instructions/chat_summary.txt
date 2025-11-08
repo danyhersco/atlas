@@ -1,0 +1,1 @@
+Your task is to summarise a chat conversation between a tutor and a student, which you're given. Please be as specific as possible, by mentioning any particular examples and exercises, strengths and weaknesses of the student, and other relevant information you deem relevant.

@@ -1,0 +1,3 @@
+In this lecture, we will dive into the building blocks of personal and organizational finance: income and expenses. We will analyze the various sources of income, distinguish between types of expenses, and learn to construct and interpret basic financial statements such as income statements and budgets. By the end of this session, you should also be equipped with basic strategies for effective cash flow management.
+
+---

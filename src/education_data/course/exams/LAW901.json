@@ -1,0 +1,1002 @@
+[
+    {
+        "question": "Which of the following most accurately distinguishes public law from private law?",
+        "choices": [
+            "Public law governs relations between individuals and the state, while private law regulates legal relations primarily between private parties.",
+            "Public law consists only of constitutional law, while private law includes criminal law and property law.",
+            "Public law always involves criminal acts, while private law never concerns criminality.",
+            "Public law applies only to written constitutions, while private law relies on case law.",
+            "Public law is not subject to social change, whereas private law frequently is."
+        ]
+    },
+    {
+        "question": "A city passes a law requiring prior authorization for public protests in central parks. Protesters, denied permission, claim their rights are violated and initiate legal action. Which area(s) of law are primarily engaged, and why?",
+        "choices": [
+            "Constitutional and administrative law, because the case involves government restriction of fundamental rights and review of a public body’s decision.",
+            "Contract law, because the protesters have a contractual relationship with the city government.",
+            "Tort law, as the issue is about damages suffered by individuals due to negligence.",
+            "Property law, since it involves the use of public land.",
+            "Criminal law, as unlawful protest is automatically a criminal offense."
+        ]
+    },
+    {
+        "question": "Public law’s dynamic nature means that:",
+        "choices": [
+            "It evolves in response to changing social values and political developments, often through reinterpretation of foundational texts.",
+            "It only changes when formal constitutional amendments are passed.",
+            "Once enacted, public law remains fixed until repealed by the legislature.",
+            "Public law is immune to social pressures and external influences.",
+            "Judges cannot influence public law through their decisions."
+        ]
+    },
+    {
+        "question": "One of the foundational principles underpinning public law and government authority, which ensures that the law applies equally to government officials and citizens, is:",
+        "choices": [
+            "Rule of law",
+            "Freedom of contract",
+            "Mens rea",
+            "Private autonomy",
+            "Lex mercatoria"
+        ]
+    },
+    {
+        "question": "Which of the following is an example best illustrating the operation of private law rather than public law?",
+        "choices": [
+            "Two businesses litigate over a disputed trademark in civil court.",
+            "An individual challenges a government regulation as unconstitutional.",
+            "A criminal prosecution for theft by the state against an individual.",
+            "A group files for judicial review against a government agency’s decision.",
+            "Citizens bring a class action against a state for violating human rights."
+        ]
+    },
+    {
+        "question": "Why do mechanisms such as judicial review play a fundamental role in public law?",
+        "choices": [
+            "They provide a means for individuals to challenge the legality and accountability of government decisions before independent courts.",
+            "They help enforce contracts made between private entities.",
+            "They establish the rules by which private property is transferred.",
+            "They resolve disputes between private neighbors over land boundaries.",
+            "They ensure companies comply with consumer protection standards exclusively."
+        ]
+    },
+    {
+        "question": "Which of the following sources is LEAST likely to be a direct foundation of public law in a state?",
+        "choices": [
+            "Commercial contracts agreed upon between private parties",
+            "Written or unwritten constitutions",
+            "Statutes passed by legislatures",
+            "Regulations promulgated by government agencies",
+            "Decisions made by courts interpreting statutes and constitutions"
+        ]
+    },
+    {
+        "question": "The status of same-sex marriage shifting through constitutional change and subsequent social reform in various countries best demonstrates which feature of public law?",
+        "choices": [
+            "Its responsiveness to evolving societal values and its role in mediating tensions between stability and reform",
+            "Its absolute supremacy over private law regardless of context",
+            "The fixed and unchanging nature of constitutional rights",
+            "The exclusive influence of legislators in shaping public law",
+            "The irrelevance of social or political activism to legal change"
+        ]
+    },
+    {
+        "question": "A key difference in the purpose of public law versus private law is:",
+        "choices": [
+            "Public law aims to uphold public interest and regulate society, while private law focuses on protecting individual interests and resolving private disputes.",
+            "Public law exists only at the national level, while private law is exclusively local.",
+            "Public law prohibits any interaction between private individuals.",
+            "Private law is not enforceable by courts, but public law is.",
+            "Private law does not influence social values, whereas public law does not influence private interests."
+        ]
+    },
+    {
+        "question": "Which of the following is a key reason why the study of public law is essential for understanding the distribution of power in society?",
+        "choices": [
+            "It explains the mechanisms for government operation, accountability, and citizens’ rights, illuminating who makes decisions and how those decisions can be challenged.",
+            "It specifies in detail how individuals must draft contracts with each other.",
+            "It primarily regulates only economic activity between private parties.",
+            "It eliminates the relevance of historical events in legal development.",
+            "It focuses solely on criminal punishment to the exclusion of other legal principles."
+        ]
+    },
+    {
+        "question": "Which of the following best illustrates the enduring influence of ancient Rome on modern public law systems, particularly within civil law traditions?",
+        "choices": [
+            "The systematic codification of law as seen in the Corpus Juris Civilis, inspiring later codes like the Napoleonic Code.",
+            "The exclusive use of judicial precedent as the primary source of law.",
+            "Direct democracy and the regular use of referenda for legislative change.",
+            "Rule exclusively by oral customary law with no written statutes.",
+            "The implementation of religious law as the basis for all legal decisions."
+        ]
+    },
+    {
+        "question": "Why is the Magna Carta (1215) considered a foundational document in the evolution of public law, especially regarding the concept of rule of law?",
+        "choices": [
+            "It formally limited royal authority and established the principle that the monarch is subject to the law.",
+            "It codified the rights of only the nobility, without broader implications for others.",
+            "It abolished feudalism and established representative democracy instantly.",
+            "It created a unified European legal system in the Middle Ages.",
+            "It introduced statutory recognition of religious law."
+        ]
+    },
+    {
+        "question": "The principle of habeas corpus, originating in English common law, primarily serves to:",
+        "choices": [
+            "Protect individuals from arbitrary detention by requiring authorities to justify imprisonment before a court.",
+            "Establish the supremacy of Parliament over the monarchy.",
+            "Mandate the codification of all laws into written statutes.",
+            "Guarantee equal suffrage for all citizens above a certain age.",
+            "Enable monarchs to rule by decree without oversight."
+        ]
+    },
+    {
+        "question": "How did the Glorious Revolution (1688-89) contribute to the development of constitutional public law in England?",
+        "choices": [
+            "It established parliamentary supremacy and a constitutional monarchy, shifting power from the monarch to elected representatives.",
+            "It structured a purely hereditary monarchy with absolute royal power.",
+            "It imposed religious law as the chief source of public law.",
+            "It abolished the legal tradition of common law in favor of civil law.",
+            "It declared all statutes enacted by Parliament null and void."
+        ]
+    },
+    {
+        "question": "Which major legal milestone best introduced a comprehensive recognition of fundamental rights at the international level after World War II?",
+        "choices": [
+            "The Universal Declaration of Human Rights (1948)",
+            "The Magna Carta (1215)",
+            "The Napoleonic Code (1804)",
+            "The Twelve Tables (5th century BCE)",
+            "The Declaration of the Rights of Man and of the Citizen (1789)"
+        ]
+    },
+    {
+        "question": "In contrast to common law systems, civil law traditions are characterized by which of the following features?",
+        "choices": [
+            "A primary reliance on codified, systematic statutes and less dependence on judicial precedent.",
+            "The centrality of unwritten customary practices to resolving disputes.",
+            "The doctrine of stare decisis as the foundation of legal authority.",
+            "Frequent reliance on religious law in all domains of public governance.",
+            "The use of jury systems in all non-criminal cases."
+        ]
+    },
+    {
+        "question": "Which document established the legal foundation for the doctrine of separation of powers and checks and balances in a modern state?",
+        "choices": [
+            "The United States Constitution (1787)",
+            "The English Bill of Rights (1689)",
+            "The Code of Hammurabi (circa 1754 BCE)",
+            "The Magna Carta (1215)",
+            "The Corpus Juris Civilis (6th century CE)"
+        ]
+    },
+    {
+        "question": "How did early forms of public law under feudalism in medieval Europe differ from those that developed with the rise of early parliaments?",
+        "choices": [
+            "Feudal public law was enforced by local lords with decentralized authority, whereas early parliaments centralized law-making and limited royal power.",
+            "Feudal public law emphasized statutory codes enacted by national legislatures.",
+            "Both systems prioritized universal suffrage and the concept of equal citizenship.",
+            "Early parliaments relied primarily on religious law with little influence from local customs.",
+            "Feudalism abolished all customary law in favor of uniform constitutional systems."
+        ]
+    },
+    {
+        "question": "Which example demonstrates the ongoing evolution of public law in response to new technological and societal challenges?",
+        "choices": [
+            "The regulation of digital spaces to address privacy and security in the modern era.",
+            "The codification of law in the Corpus Juris Civilis during the 6th century CE.",
+            "The declaration of the Rights of Man and of the Citizen in 1789.",
+            "The formation of feudal systems in medieval Europe.",
+            "The introduction of canon law during the Middle Ages."
+        ]
+    },
+    {
+        "question": "Marbury v. Madison (1803) is a landmark U.S. Supreme Court case primarily because it:",
+        "choices": [
+            "Established the principle of judicial review, empowering courts to invalidate laws that conflict with the Constitution.",
+            "Enshrined the right to freedom of speech and religion as absolute rights.",
+            "Mandated the division of government into executive, legislative, and judicial branches.",
+            "Declared the primacy of common law over statutory law in all cases.",
+            "Extended universal male suffrage independent of property requirements."
+        ]
+    },
+    {
+        "question": "Which of the following best illustrates the organizational function of a constitution?",
+        "choices": [
+            "The allocation of legislative, executive, and judicial powers in a foundational document",
+            "The inclusion of a national flag and anthem in the Constitution",
+            "The process for declaring public holidays",
+            "The establishment of procedures for holding local fairs",
+            "Provisions for setting tuition fees at public universities"
+        ]
+    },
+    {
+        "question": "Why is the doctrine of separation of powers considered essential in constitutional design?",
+        "choices": [
+            "It prevents the concentration of governmental authority in one branch and provides checks and balances",
+            "It guarantees amendments can be made more easily",
+            "It ensures that only the executive can make laws",
+            "It abolishes the need for judicial interpretation",
+            "It allows for the direct appointment of legislators by the judiciary"
+        ]
+    },
+    {
+        "question": "Which principle of constitutionalism is most clearly contravened if a leader issues decrees without legal authority?",
+        "choices": [
+            "Rule of law",
+            "Popular sovereignty",
+            "Living constitutionalism",
+            "Originalism",
+            "Federalism"
+        ]
+    },
+    {
+        "question": "Suppose a country wants to rapidly adapt its constitution to new technologies. Which constitutional form best facilitates this goal, and why?",
+        "choices": [
+            "A flexible constitution, because it can be amended through regular legislative processes",
+            "A rigid constitution, because it requires supermajorities to amend",
+            "A written constitution, because its text is fixed",
+            "An unwritten constitution, because it depends entirely on customs",
+            "A constitution based exclusively on judicial precedents, because courts are slow to change"
+        ]
+    },
+    {
+        "question": "A Supreme Court justice insists that constitutional rights must be interpreted according to present-day social values and needs. Which interpretive approach does this describe?",
+        "choices": [
+            "Living constitution/progressivism",
+            "Textualism",
+            "Originalism",
+            "Doctrinal approach",
+            "Formalism"
+        ]
+    },
+    {
+        "question": "In the US, which constitutional mechanism enables Congress to check possible abuses of power by the President?",
+        "choices": [
+            "Impeachment proceedings",
+            "Veto override by the President",
+            "Judicial review",
+            "Presidential pardon powers",
+            "Appointment of Cabinet officials"
+        ]
+    },
+    {
+        "question": "What distinguishes a written constitution from an unwritten constitution?",
+        "choices": [
+            "A written constitution is codified in a single document, while an unwritten one derives from multiple sources such as statutes, conventions, and traditions",
+            "A written constitution cannot be amended, whereas an unwritten one can",
+            "A written constitution provides no protection for fundamental rights, while an unwritten constitution does",
+            "A written constitution is always rigid, while an unwritten constitution is always flexible",
+            "A written constitution is only symbolic, unlike an unwritten constitution which is functional"
+        ]
+    },
+    {
+        "question": "Which scenario best exemplifies a limitative function of a constitution?",
+        "choices": [
+            "A constitutional provision barring any law establishing a state religion",
+            "The establishment of a national currency",
+            "A clause mandating annual celebrations of independence day",
+            "A preamble describing shared cultural values",
+            "A statute setting the voting age"
+        ]
+    },
+    {
+        "question": "A constitution states 'no law shall abridge freedom of speech.' A judge insists “no law” means literally no law, regardless of context. Which interpretive approach is being used?",
+        "choices": [
+            "Textualism",
+            "Originalism",
+            "Living constitution/progressivism",
+            "Doctrinal approach",
+            "Contextualism"
+        ]
+    },
+    {
+        "question": "If a court consults the Federalist Papers to discern how the framers intended a constitutional provision to function, what method of interpretation are they applying?",
+        "choices": [
+            "Originalism",
+            "Textualism",
+            "Living constitution/progressivism",
+            "Comparative constitutionalism",
+            "Strict constructionism"
+        ]
+    },
+    {
+        "question": "According to Montesquieu's theory of separation of powers, why is it essential that legislative, executive, and judicial functions be allocated to distinct branches of government?",
+        "choices": [
+            "To prevent the concentration of power, ensuring liberty through internal checks and accountability",
+            "To accelerate government decision-making by consolidating authority",
+            "To adapt to the tradition of classical thinkers like Aristotle and Polybius",
+            "To ensure the executive branch can control foreign policy exclusively",
+            "To create a flexible system that can easily fuse branches when needed"
+        ]
+    },
+    {
+        "question": "Which mechanism most directly exemplifies the judicial branch checking the power of the legislature in the United States?",
+        "choices": [
+            "The Supreme Court declaring a statute unconstitutional through judicial review",
+            "The President issuing an executive order to override a statute",
+            "The House of Representatives passing a new law in response to public demand",
+            "The Senate approving Cabinet appointments",
+            "Congress overriding a presidential veto"
+        ]
+    },
+    {
+        "question": "Comparing the United Kingdom to the United States, which statement best explains a fundamental structural difference with respect to the separation of powers?",
+        "choices": [
+            "The UK fuses executive and legislative branches, while the US maintains clear structural independence",
+            "Both countries have codified constitutions that strictly enforce separation",
+            "The judiciary in the UK has always had constitutional independence since the 18th century",
+            "In the UK, the judiciary regularly vetoes legislation passed by Parliament",
+            "The US has adopted a parliamentary system similar to the UK"
+        ]
+    },
+    {
+        "question": "In a hypothetical country where the President lacks veto power, Parliament passes a restrictive law, and the Supreme Court declares it unconstitutional, which principle is primarily illustrated by the judicial action?",
+        "choices": [
+            "Judicial review serving as a check and balance on legislative authority",
+            "Executive supremacy over the legislative process",
+            "Fusion of powers between all three branches",
+            "Legislative self-regulation without external checks",
+            "Legislative delegation of interpretive authority"
+        ]
+    },
+    {
+        "question": "Which of the following correctly pairs government functions with the branch responsible for them under the doctrine of separation of powers?",
+        "choices": [
+            "Impeachment of officials – Legislative; Law interpretation – Judicial; Policy implementation – Executive",
+            "Policy implementation – Judicial; Law interpretation – Legislative; Budget approval – Executive",
+            "Declaring constitutionality – Executive; Passing statutes – Judicial; Impeachment – Executive",
+            "Enacting statutes – Executive; Judicial review – Legislative; Managing foreign affairs – Judicial",
+            "Budget approval – Judicial; Vetoing legislation – Legislative; Law enforcement – Legislative"
+        ]
+    },
+    {
+        "question": "Which statement best describes the role of the Constitutional Council in France's semi-presidential system as compared to the United States Supreme Court?",
+        "choices": [
+            "It reviews legislation before enactment, while the US Supreme Court conducts judicial review after laws are enacted",
+            "It has the power to veto executive actions directly, unlike the US Supreme Court",
+            "It controls the appointment of the President and Prime Minister",
+            "It is part of the legislature, not an independent court",
+            "It can only interpret statutes, not constitutional provisions"
+        ]
+    },
+    {
+        "question": "Why might a strict separation of powers system be less efficient in responding to emergencies than a fused system of government?",
+        "choices": [
+            "Because coordination among strictly separated branches may be slower due to rigid demarcation of authority",
+            "Because the legislative branch holds all powers and must convene for every major decision",
+            "Because the judiciary exclusively manages both legislation and execution",
+            "Because the executive can override both judicial and legislative actions unilaterally",
+            "Because the system prevents any checks or balances between the branches"
+        ]
+    },
+    {
+        "question": "If the executive branch in a country refuses to enforce a Supreme Court decision that invalidates a legislative act, what constitutional crisis does this potentially produce?",
+        "choices": [
+            "A breakdown in the system of checks and balances, threatening the rule of law",
+            "A scenario where the judiciary overtakes legislative powers",
+            "Legislative supremacy without any judicial checks",
+            "An example of efficient fused powers",
+            "A routine function of the executive's discretion"
+        ]
+    },
+    {
+        "question": "Within a parliamentary system like the UK’s, what unique feature complicates direct application of Montesquieu’s separation of powers in its classic form?",
+        "choices": [
+            "The executive branch is derived from and remains part of the legislature",
+            "The judiciary possesses veto power over the legislative process",
+            "The legislative branch is entirely appointed by the head of state",
+            "The Prime Minister is constitutionally barred from serving in Parliament",
+            "The Supreme Court predates the existence of Parliament"
+        ]
+    },
+    {
+        "question": "Which of the following is an example of an executive check on the legislative branch in the US system, and how can the legislature respond?",
+        "choices": [
+            "The President vetoes a bill, but Congress can override the veto with a supermajority",
+            "The Supreme Court reviews a statute, and the President removes a judge",
+            "The Senate impeaches the President, and the House overrules the impeachment",
+            "The Executive appoints Supreme Court Justices without Senate confirmation",
+            "Congress prevents a presidential executive order from taking effect by issuing a veto"
+        ]
+    },
+    {
+        "question": "Which of the following best exemplifies the principle of 'judicial review' as discussed in the lecture?",
+        "choices": [
+            "A court invalidates a legislative act for violating a constitutional right.",
+            "A parliament amends the constitution to expand executive powers.",
+            "A legislative committee investigates judicial appointments for corruption.",
+            "The executive branch implements a new administrative regulation.",
+            "The president delivers an annual speech outlining policy priorities."
+        ]
+    },
+    {
+        "question": "Given a court considering whether DNA data is protected under a constitutional 'right to privacy,' which interpretive method would prioritize adapting legal principles to modern technology?",
+        "choices": [
+            "Living Constitution approach",
+            "Textualism",
+            "Originalism",
+            "Strict Constructionism",
+            "Formalism"
+        ]
+    },
+    {
+        "question": "'Marbury v. Madison' is significant for public law because it:",
+        "choices": [
+            "Established the foundation for judicial review in the United States.",
+            "Abolished racial segregation in U.S. public schools.",
+            "Created the basic structure doctrine limiting constitutional amendments in India.",
+            "Held that indefinite detention without trial violates human rights in the UK.",
+            "Ordered the government to provide anti-retroviral drugs in South Africa."
+        ]
+    },
+    {
+        "question": "A core difference between 'strong-form' and 'weak-form' judicial review is that in strong-form systems:",
+        "choices": [
+            "Courts can invalidate legislation, binding all branches of government.",
+            "Parliament retains final authority over constitutional interpretation.",
+            "Courts may only issue advisory opinions.",
+            "Judicial review is absent entirely.",
+            "Courts have no role in constitutional disputes."
+        ]
+    },
+    {
+        "question": "The primary purpose behind judicial independence, as outlined in the lecture, is:",
+        "choices": [
+            "To guarantee impartial adjudication and uphold public trust in judicial fairness.",
+            "To increase judicial salaries without oversight.",
+            "To isolate the judiciary from all forms of accountability.",
+            "To grant judges legislative powers.",
+            "To ensure judges reflect the political views of the executive."
+        ]
+    },
+    {
+        "question": "If the UK courts find a statute incompatible with the Human Rights Act, but Parliament chooses not to amend it, what does this demonstrate about the UK's system of judicial review?",
+        "choices": [
+            "Parliamentary sovereignty persists despite judicial findings.",
+            "UK courts possess the same striking-down power as U.S. courts.",
+            "The Human Rights Act overrides all other legislation automatically.",
+            "There is no mechanism for courts to comment on human rights violations.",
+            "UK courts cannot interpret statutes in light of rights guarantees."
+        ]
+    },
+    {
+        "question": "In 'Kesavananda Bharati v. State of Kerala,' the Indian Supreme Court held that:",
+        "choices": [
+            "Certain fundamental features of the constitution are beyond amendment, safeguarding basic constitutional structure.",
+            "All constitutional provisions can be amended by a simple legislative majority.",
+            "The executive has unchecked power during emergencies.",
+            "Socio-economic rights cannot be enforced by courts.",
+            "Racial segregation in education is unconstitutional."
+        ]
+    },
+    {
+        "question": "Which combination of factors is most likely to threaten judicial independence, according to the lecture?",
+        "choices": [
+            "Executive interference in appointments, manipulation of court budgets, and intimidation of judges.",
+            "Transparent, merit-based appointment processes and judicial tenure security.",
+            "Public respect for judicial ethics and adequate court funding.",
+            "Separation of powers and protection of judicial salaries.",
+            "Strong professional codes and media support for courts."
+        ]
+    },
+    {
+        "question": "How did 'Brown v. Board of Education' illustrate the constructive power of courts within public law?",
+        "choices": [
+            "By redefining equal protection and challenging entrenched social norms through a ruling on racial segregation.",
+            "By introducing the basic structure doctrine for constitutional amendments.",
+            "By limiting parliamentary sovereignty in the UK.",
+            "By enforcing socio-economic rights against the government.",
+            "By creating a mechanism for judicial appointments."
+        ]
+    },
+    {
+        "question": "If the judiciary is susceptible to arbitrary removal of judges and external intimidation, which of the following is a likely consequence for society?",
+        "choices": [
+            "Diminished public confidence in the fairness and impartiality of legal decisions.",
+            "Increased protection of fundamental rights and liberties.",
+            "Enhanced independence and quality of legal reasoning.",
+            "More effective checks on executive overreach.",
+            "Greater transparency and legitimacy of judicial proceedings."
+        ]
+    },
+    {
+        "question": "Which of the following best distinguishes a federal system from a unitary system?",
+        "choices": [
+            "A constitutionally entrenched division of powers between central and regional governments, each with legal autonomy.",
+            "Central government holds all primary governing authority, even if some functions are delegated to local units.",
+            "Only the central government can directly create laws binding on citizens.",
+            "No arbitration mechanisms exist between different levels of government.",
+            "Regional units hold only advisory roles without legislative autonomy."
+        ]
+    },
+    {
+        "question": "In the United States, the Tenth Amendment primarily serves to:",
+        "choices": [
+            "Reserve powers not delegated to the federal government to the states or the people.",
+            "Enumerate the specific powers of the federal Congress.",
+            "Assert the supremacy of federal law over all state laws unconditionally.",
+            "Allow the judiciary to allocate powers not specified to either government level.",
+            "Codify the process of cooperative federalism between federal and state governments."
+        ]
+    },
+    {
+        "question": "Suppose a federal government passes environmental regulations that states claim infringe on their exclusive jurisdiction. Which of the following is most likely to happen based on principles discussed in the lecture?",
+        "choices": [
+            "The judiciary (specifically constitutional or supreme courts) will arbitrate the dispute, considering supremacy clauses and constitutional allocations.",
+            "States will have unconditional authority to refuse implementation of the federal regulations.",
+            "The President or federal executive will unilaterally override the states' regulations without recourse.",
+            "The matter will be decided solely by public referendum in each state.",
+            "The issue is resolved through fiscal federalism alone, reallocating resources to appease dissenting states."
+        ]
+    },
+    {
+        "question": "The Canadian ‘pith and substance’ doctrine is best described as:",
+        "choices": [
+            "A tool courts use to determine the true nature and purpose of legislation when federal and provincial powers overlap.",
+            "A provision in the Constitution specifying residual powers for the provinces.",
+            "A doctrine giving exclusive authority to federal laws in all cases of conflict.",
+            "The principle that only the written text of the Constitution is considered in allocations of power.",
+            "A fiscal arrangement determining resource distribution between federal and provincial governments."
+        ]
+    },
+    {
+        "question": "The significance of the ‘commerce clause’ in US federalism debates is illustrated by decisions such as Wickard v. Filburn (1942) and United States v. Lopez (1995). What key issue did these cases revolve around?",
+        "choices": [
+            "The extent to which the federal government can regulate activities affecting interstate commerce.",
+            "The use of executive orders to override state legislation.",
+            "The authority of the Supreme Court to strike down state taxes.",
+            "The precedent for concurrent power arrangements between federal and state governments.",
+            "Amendment procedures for reallocating legislative powers."
+        ]
+    },
+    {
+        "question": "Which of these statements about Germany’s Bundesrat is most accurate based on the lecture?",
+        "choices": [
+            "It is a federal institution enabling direct state participation in federal law-making, especially on matters impacting state competencies.",
+            "It operates exactly like the United States Senate, representing citizens directly rather than state governments.",
+            "It solely manages fiscal arrangements between the Länder (states) and the federal government.",
+            "It functions as the highest constitutional court in Germany.",
+            "It only discusses policy areas under exclusive federal jurisdiction without input from the states."
+        ]
+    },
+    {
+        "question": "Which method(s) of power allocation in federal systems would likely lead to the greatest intergovernmental disputes over unclear jurisdiction?",
+        "choices": [
+            "Concurrent powers, due to shared authority and possible legislative overlap.",
+            "Enumerated powers, since they leave no ambiguity in responsibilities.",
+            "Supremacy clauses, because they always resolve conflicts in favor of states.",
+            "Residual powers, because they are always clearly defined in every constitution.",
+            "Legal autonomy, as it precludes any possibility for disputes."
+        ]
+    },
+    {
+        "question": "What principle is most directly threatened if a central government in a federal system repeatedly invokes emergency provisions (such as President’s Rule in India) to take over state administrations?",
+        "choices": [
+            "Constitutionally protected autonomy of subnational governments.",
+            "Judicial supremacy in interpreting national and state laws.",
+            "The existence of concurrent powers within the constitution.",
+            "The functioning of fiscal federalism mechanisms.",
+            "The effectiveness of direct citizen authority over national laws."
+        ]
+    },
+    {
+        "question": "Australia’s experience with the High Court’s interpretation of the ‘corporations power’ and federal spending power has led to:",
+        "choices": [
+            "An expansion of federal authority at the expense of state governments’ legislative and fiscal autonomy.",
+            "A strict limitation on federal reach, preserving most powers for the states.",
+            "A shift toward unitary governance as defined in the written Constitution.",
+            "The abolition of concurrent powers in favor of exclusive state jurisdiction.",
+            "The High Court relinquishing its constitutional interpretative role."
+        ]
+    },
+    {
+        "question": "Which of the following is NOT a typical advantage of federal systems, as discussed in the lecture?",
+        "choices": [
+            "The complete elimination of intergovernmental disputes and conflicts.",
+            "Promotion of local autonomy responsive to regional diversity.",
+            "Encouragement of policy innovation through “laboratories of democracy.”",
+            "Prevention of dangerous concentration of power in a single authority.",
+            "Constitutional safeguards for decentralized governance."
+        ]
+    },
+    {
+        "question": "Which of the following best defines 'entrenchment' of fundamental rights within a constitution?",
+        "choices": [
+            "It means these rights are difficult to amend or remove, providing long-term protection.",
+            "It allows the legislature to override rights through ordinary legislation.",
+            "It restricts the judiciary from interpreting constitutional rights.",
+            "It permits temporary suspension of rights whenever the executive desires.",
+            "It makes fundamental rights subject to public referenda for any change."
+        ]
+    },
+    {
+        "question": "A national law bans all forms of public protesting to ensure 'national security' without exceptions or procedural safeguards. Evaluating under the proportionality doctrine, which of the following is the clearest reason why this law is likely unconstitutional?",
+        "choices": [
+            "The restriction is not proportionate to the legitimate aim, as it fails to consider less restrictive measures.",
+            "The law entails no judicial review for those affected, failing the justiciability requirement.",
+            "National security is never a sufficient justification for limiting basic rights.",
+            "All collective rights are always absolute and cannot be limited.",
+            "Economic, social, and cultural rights are the only rights that can be limited."
+        ]
+    },
+    {
+        "question": "In which scenario is a limitation on fundamental rights MOST likely to be considered permissible under international norms?",
+        "choices": [
+            "When the restriction is prescribed by law, has a legitimate aim, and is necessary and proportionate.",
+            "When the government claims national security as a justification, regardless of proportionality.",
+            "When the limitation is imposed by emergency powers without any judicial oversight.",
+            "When it affects only economic and social rights, not civil and political rights.",
+            "When majoritarian public opinion supports the limitation."
+        ]
+    },
+    {
+        "question": "Which of the following rights represents a 'third generation' or solidarity right as identified in modern constitutional theory?",
+        "choices": [
+            "The right to a clean environment",
+            "The right to due process",
+            "The right to free speech",
+            "The right to property",
+            "The right to secondary education"
+        ]
+    },
+    {
+        "question": "A government, in the absence of specific criteria, grants itself authority to block access to the internet and to ban public gatherings indefinitely for 'national security.' What institutional mechanism, if available, provides the most direct legal remedy for an individual whose rights are violated?",
+        "choices": [
+            "Seeking judicial review in a constitutional court",
+            "Submitting a petition to the parliament",
+            "Appealing to the executive branch for reconsideration",
+            "Requesting intervention from human rights commissions alone",
+            "Direct public protest"
+        ]
+    },
+    {
+        "question": "Which of these cases illustrates the doctrine of justiciability as applied to fundamental rights?",
+        "choices": [
+            "An individual successfully challenges an unlawful detention before a court, resulting in their release.",
+            "The executive unilaterally changes the scope of rights without judicial or legislative input.",
+            "A law is changed through public initiative without reference to the courts.",
+            "The ombudsman issues a non-binding report on rights violations with no court involvement.",
+            "A commission makes recommendations but lacks legal enforcement power."
+        ]
+    },
+    {
+        "question": "During a declared emergency, a government suspends several civil and political rights but imposes torture to extract information, citing 'national security.' According to constitutional and international standards, why is this action unlawful?",
+        "choices": [
+            "The prohibition of torture is considered absolute and non-derogable, even in emergencies.",
+            "All rights can be suspended during emergencies if national security is cited.",
+            "The suspension is justified if approved by the legislature.",
+            "Rights to liberty, but not to physical integrity, can be suspended in emergencies.",
+            "Only economic and social rights are protected during emergencies."
+        ]
+    },
+    {
+        "question": "Which example best demonstrates courts acting as 'guardians' of fundamental rights against governmental overreach?",
+        "choices": [
+            "Striking down a law banning all peaceful protests as unconstitutional.",
+            "Prosecuting individuals for violating government assembly bans.",
+            "Issuing non-binding opinions regarding rights violations.",
+            "Allowing the executive to determine rights restrictions without review.",
+            "Deferring exclusively to legislative intent in rights matters."
+        ]
+    },
+    {
+        "question": "Suppose a constitution guarantees freedom of expression but allows restrictions 'to prevent incitement to violence.' Which of the following measures exceeds the permissible limitations by failing the proportionality test?",
+        "choices": [
+            "A blanket ban on all political speech, regardless of content or context.",
+            "A narrowly tailored law prohibiting only speech that directly incites violence.",
+            "A requirement that potential hate speech be reviewed before publication.",
+            "A restriction on speech during times of imminent threat to public safety.",
+            "Judicial oversight over cases where incitement is alleged."
+        ]
+    },
+    {
+        "question": "When analyzing government-imposed restrictions on social media to respond to protests, which reasoning best reflects constitutional balancing according to the lecture?",
+        "choices": [
+            "A court should assess whether the restriction is prescribed by law, pursues a legitimate aim, and is necessary and proportionate.",
+            "The restriction is always justified if the goal is to prevent violence, regardless of its breadth.",
+            "Any limitation on online platforms is unconstitutional due to the right of free speech.",
+            "Fundamental rights cannot be limited for any reason, even during emergencies.",
+            "The court should defer entirely to executive assessment without independent review."
+        ]
+    },
+    {
+        "question": "Which of the following best illustrates how public law guarantees fairness and legitimacy in democratic elections?",
+        "choices": [
+            "Independent electoral commissions established by statute to oversee voting processes",
+            "Permitting government officials to manage all aspects of election logistics",
+            "Having political parties draw electoral district boundaries without oversight",
+            "Restricting judicial oversight of election results",
+            "Allowing unlimited anonymous campaign donations with no disclosure requirements"
+        ]
+    },
+    {
+        "question": "How does the rule of law principle most directly support the operation of democratic institutions?",
+        "choices": [
+            "By ensuring that all government actions and officials are subject to legal constraints and possible court review",
+            "By delegating unchecked authority to elected leaders during emergencies",
+            "By allowing certain public officials to override laws for expediency",
+            "By prioritizing executive actions over legislative oversight in crises",
+            "By exempting popular representatives from legal scrutiny due to their mandate"
+        ]
+    },
+    {
+        "question": "The Indian anti-defection law is an example of public law intended to address which democratic concern?",
+        "choices": [
+            "Preventing elected representatives from undermining parliamentary stability by switching parties for personal gain",
+            "Regulating judicial independence to minimize party influence",
+            "Limiting media coverage of contentious legislative debates",
+            "Imposing strict campaign finance rules to curb electioneering",
+            "Enabling direct presidential intervention in legislative matters"
+        ]
+    },
+    {
+        "question": "Which legal tool is most appropriate when a government enacts a law that restricts freedom of assembly in violation of constitutional rights?",
+        "choices": [
+            "Judicial review by constitutional courts",
+            "Enactment of an anti-defection statute",
+            "Impeachment proceedings against all legislators",
+            "Centralization of media regulation by the state",
+            "Expansion of executive emergency powers"
+        ]
+    },
+    {
+        "question": "Following apartheid, which legal measure in South Africa most credibly supported its transition to democracy?",
+        "choices": [
+            "Constitutional creation of an independent electoral commission to oversee elections",
+            "Immediate elimination of all legislative checks on executives",
+            "Direct military oversight of polling locations",
+            "Exemption of electoral officials from judicial scrutiny",
+            "Limiting the number of political parties allowed to contest elections"
+        ]
+    },
+    {
+        "question": "Which of these most accurately reflects the core accountability mechanism provided by public law in a democracy?",
+        "choices": [
+            "Legal and judicial scrutiny over governmental officials and institutions",
+            "Granting lifelong immunity to all elected representatives",
+            "Permitting voters to select officials in non-transparent procedures",
+            "Allowing government agencies to classify all policy decisions as state secrets",
+            "Delegating judicial appointments exclusively to the executive branch"
+        ]
+    },
+    {
+        "question": "Why did Germany's post-WWII constitutional framework deliberately give its Federal Constitutional Court the power to dissolve political parties?",
+        "choices": [
+            "To prevent anti-democratic movements from undermining democratic order, based on historical experience with the Weimar Republic",
+            "To concentrate unchecked power within the judiciary to control political discourse",
+            "To provide for the direct appointment of party leaders by the court",
+            "To enforce religious uniformity among political organizations",
+            "To limit the participation of minority groups in electoral processes"
+        ]
+    },
+    {
+        "question": "What is the likely impact when media access is strictly limited and electoral outcomes are not subject to independent audit or judicial review?",
+        "choices": [
+            "Erosion of democratic legitimacy and increased risk of unaccountable governance",
+            "Enhanced transparency due to reduced partisan conflict",
+            "Strengthening of civil society through improved legal protections",
+            "Greater consistency in the protection of civil liberties",
+            "Promotion of a multiparty political culture"
+        ]
+    },
+    {
+        "question": "In the context of Turkey and Poland, why is judicial independence regarded as crucial for democratic resilience?",
+        "choices": [
+            "It prevents the concentration of public power and ensures laws are interpreted free from government influence",
+            "It allows elected leaders to implement their policies without legal interference",
+            "It ensures the legislative branch retains ultimate authority over the judiciary",
+            "It creates avenues for the executive branch to revise final court decisions",
+            "It enables state security priorities to override individual rights"
+        ]
+    },
+    {
+        "question": "Which of the following best exemplifies legal accountability as opposed to political accountability in democratic systems?",
+        "choices": [
+            "A court invalidating a government action found to breach constitutional rights",
+            "A parliament passing a vote of no-confidence in the executive",
+            "The resignation of a minister after a public scandal",
+            "Media exposing misuse of public funds before an election",
+            "A political party changing its leadership following poor electoral performance"
+        ]
+    },
+    {
+        "question": "Which of the following most accurately explains the broader legal significance of *Brown v. Board of Education* (1954)?",
+        "choices": [
+            "It established that judicial interpretation of constitutional principles can abolish longstanding discriminatory practices and catalyze social reform.",
+            "It demonstrated that courts must always defer to legislative intent in matters of public education.",
+            "It clarified the procedural requirements for amending the U.S. Constitution.",
+            "It limited the judiciary’s ability to engage in judicial review of state laws.",
+            "It upheld the 'separate but equal' doctrine as applied to public schools."
+        ]
+    },
+    {
+        "question": "In *Minister of Home Affairs v. Fourie* (2005), which constitutional values most influenced the court’s reasoning in ruling the exclusion of same-sex couples from marriage unconstitutional?",
+        "choices": [
+            "Equality and dignity, requiring the law to adapt to and reflect fundamental rights under a transformative constitution.",
+            "Tradition and the maintenance of existing cultural norms regarding marriage.",
+            "Economic efficiency and the interests of the majority population.",
+            "Protection of national security through social unity.",
+            "The need to align domestic law with international business practices."
+        ]
+    },
+    {
+        "question": "In the *A and Others v. Secretary of State for the Home Department* (2004) case, what key principle limited executive powers, even in the context of a national emergency?",
+        "choices": [
+            "Proportionality and non-discrimination as protected by the European Convention on Human Rights.",
+            "Political necessity, permitting authorities to override all rights in times of crisis.",
+            "Statutory interpretation favoring broad executive discretion by default.",
+            "Judicial deference to the will of the Parliament at all times.",
+            "The primacy of international law over domestic constitutional guarantees."
+        ]
+    },
+    {
+        "question": "When analyzing the *Reference re Secession of Quebec* (1998) decision, which set of constitutional principles formed the basis for the Supreme Court of Canada’s reasoning?",
+        "choices": [
+            "Federalism, democracy, rule of law, and protection of minority rights.",
+            "Absolute sovereignty of provincial governments within their territory.",
+            "Majority rule without constitutional constraints.",
+            "Unilateral self-determination as an automatic right for all sub-national regions.",
+            "Dominance of international law principles above those in the domestic constitution."
+        ]
+    },
+    {
+        "question": "A recurring theme in the lecture is the idea of 'the living constitution.' In practical terms, what does this mean for judicial decision-making in landmark public law cases?",
+        "choices": [
+            "Courts interpret constitutional principles flexibly, considering contemporary societal values and circumstances.",
+            "Judges are constrained to literal interpretations of constitutional text regardless of social developments.",
+            "Supreme Courts should routinely defer to legislatures on all matters of fundamental rights.",
+            "The constitution’s meaning is fixed at the time of its drafting and cannot evolve.",
+            "Only international treaties can modify domestic constitutional interpretation."
+        ]
+    },
+    {
+        "question": "Which distinguishing factor best explains why *Minister of Home Affairs v. Fourie* (2005) is considered a landmark case in comparative constitutional law?",
+        "choices": [
+            "It broke new ground in recognizing same-sex marriage within a constitutional framework emphasizing dignity and equality.",
+            "It reaffirmed the traditional understanding of marriage as exclusively heterosexual.",
+            "It implemented judicial restraint in matters of social policy reform.",
+            "It provided that international human rights law is not relevant to domestic constitutional interpretation.",
+            "It declined to address the question of marriage rights for fear of public backlash."
+        ]
+    },
+    {
+        "question": "Considering the societal consequences highlighted in the lecture, how did *A and Others v. Secretary of State* chiefly contribute to the relationship between the judiciary and executive?",
+        "choices": [
+            "It affirmed the judiciary’s essential role in reviewing and, where necessary, limiting executive power to protect civil liberties, even during crises.",
+            "It established the supremacy of executive decisions over civil liberties during emergencies.",
+            "It removed the possibility of judicial oversight for national security legislation.",
+            "It required courts to defer to the government whenever the Anti-terrorism, Crime and Security Act was invoked.",
+            "It ended all legal challenges to indefinite detention."
+        ]
+    },
+    {
+        "question": "The *Secession of Quebec Reference* (1998) illustrates which key public law function of courts in managing national and constitutional crises?",
+        "choices": [
+            "Courts can provide a structured, peaceful legal framework for negotiating deeply contested political claims.",
+            "Courts should decline jurisdiction over matters involving national identity.",
+            "The judiciary must always side with the central government in constitutional disputes.",
+            "Constitutional disputes about secession must be resolved solely through referenda.",
+            "International law compels courts to mandate secession if a province so desires."
+        ]
+    },
+    {
+        "question": "If a court were to evaluate a law temporarily suspending civil liberties during a national emergency, which precedent-based factors would guide its constitutional assessment, as informed by cases discussed in this lecture?",
+        "choices": [
+            "Necessity and proportionality, targeted application, adherence to fundamental rights, and preservation of institutional checks and balances.",
+            "Automatic validation of all emergency measures for reason of expediency.",
+            "Removal of judicial oversight until the emergency ends.",
+            "Exclusive reliance on executive discretion absent legislative approval.",
+            "Permanent suspension of rights whenever the government declares a crisis."
+        ]
+    },
+    {
+        "question": "Based on the case impact matrix in the lecture, which of the following best reflects how landmark public law decisions extend their influence beyond the parties involved?",
+        "choices": [
+            "They frequently prompt institutional reform, initiate or accelerate social movements, and set enduring societal norms.",
+            "They produce only narrow outcomes limited to individual litigants.",
+            "They rarely affect administrative or political structures.",
+            "They serve little purpose beyond clarifying obscure points of procedure.",
+            "They are largely ignored by the broader public and have no cumulative impact."
+        ]
+    },
+    {
+        "question": "Which of the following scenarios best illustrates the potential for bias in automated decision-making within public administration, and the corresponding challenge for legal accountability?",
+        "choices": [
+            "A social welfare algorithm that disproportionately denies benefits to applicants from marginalized backgrounds, raising questions about whether liability falls on the agency, software provider, or data source.",
+            "A government-run statistical database being hacked, resulting in data leakage but no change in eligibility decisions.",
+            "A utility company uses smart meters to automatically bill customers, occasionally overcharging due to meter malfunction.",
+            "Police using body cameras to reduce misconduct, with footage stored automatically but rarely reviewed.",
+            "A court using online forms for submissions, with minor data entry errors corrected by clerks before processing."
+        ]
+    },
+    {
+        "question": "How has the European Union’s General Data Protection Regulation (GDPR) influenced the development of public law beyond the EU’s borders?",
+        "choices": [
+            "It has inspired legal reforms and new data protection mechanisms in various non-EU jurisdictions, strengthening global public law approaches to data privacy.",
+            "It has led to the formation of an EU-only court for data rights with no effect outside EU territory.",
+            "It has been rejected universally by non-EU nations as too restrictive for international business.",
+            "Its provisions focus only on consumer rights, not affecting governmental public law frameworks globally.",
+            "It has led to weaker privacy protections in countries attempting to compete economically."
+        ]
+    },
+    {
+        "question": "In the context of transnational public law challenges such as climate change, which legal approach best addresses the problem of actions that fall outside the traditional jurisdiction of a single state?",
+        "choices": [
+            "Hybrid mechanisms, such as international tribunals and cross-border regulatory agencies, enabling cooperative legal solutions.",
+            "Relying exclusively on national legislatures to pass climate laws without external influence.",
+            "Allowing multinational corporations to self-regulate under voluntary guidelines.",
+            "Delegating full regulatory power to private environmental advocacy groups.",
+            "Focusing on local municipal ordinances as the primary method for enforcing climate policy."
+        ]
+    },
+    {
+        "question": "Which of the following accurately represents a constitutional mechanism that can both safeguard and potentially undermine democratic norms in the context of 'democratic backsliding'?",
+        "choices": [
+            "The use or abuse of emergency powers to circumvent ordinary legal procedures, challenging checks and balances.",
+            "Granting universal suffrage to enhance public participation in elections.",
+            "Implementing public referenda on all legislation to guarantee direct democracy.",
+            "Limiting executive appointments strictly to career civil servants.",
+            "Mandating that all judicial decisions be ratified by the legislature."
+        ]
+    },
+    {
+        "question": "Why are private technology companies sometimes viewed as having quasi-public law responsibilities in the digital public sphere?",
+        "choices": [
+            "Because their platforms facilitate public discourse and decisions on speech (e.g., content moderation) have significant implications for democratic values and rights.",
+            "Because they pay taxes and are subject to consumer protection laws like other private businesses.",
+            "Because they manufacture technology used by governments for surveillance.",
+            "Because they run their own courts to resolve user disputes.",
+            "Because their headquarters are often located in countries with strong public law traditions."
+        ]
+    },
+    {
+        "question": "Which constitutional issue arises when courts are asked to mandate government action on pressing social problems like environmental protection?",
+        "choices": [
+            "The separation of powers, specifically the debate over whether courts can compel the executive or legislature to enact specific policies.",
+            "The right of the media to publicize government inaction.",
+            "The expansion of standing to include all citizens as plaintiffs in environmental cases.",
+            "The justiciability of international treaties at the domestic constitutional level.",
+            "The principle of double jeopardy as applied to administrative penalties."
+        ]
+    },
+    {
+        "question": "How does the concept of 'judicial independence' relate to recent trends of democratic backsliding?",
+        "choices": [
+            "Erosion of judicial independence, such as through executive control over appointments or removal, is a clear indicator of democratic decline and a threat to constitutional norms.",
+            "Strengthening judicial independence by allowing direct public elections of judges prevents all risks of democratic backsliding.",
+            "Judicial independence is irrelevant to backsliding unless all courts lose funding.",
+            "Backsliding refers exclusively to changes in electoral systems, not legal institutions.",
+            "Limiting judicial independence is necessary to ensure the will of the majority is reflected in court judgments."
+        ]
+    },
+    {
+        "question": "Which challenge best exemplifies the tension between state sovereignty and international law obligations within public law?",
+        "choices": [
+            "The restriction or granting of refugee status in a manner inconsistent with international treaties, forcing states to balance their own legal frameworks and international commitments.",
+            "Establishing municipal noise ordinances without consulting neighboring jurisdictions.",
+            "Implementing public holidays with no international coordination required.",
+            "Enforcing property law between private citizens under domestic contract statutes.",
+            "The privatization of utilities in accordance with free market principles."
+        ]
+    },
+    {
+        "question": "In what way can constitutional courts promote environmental protection as a collective right, according to recent developments?",
+        "choices": [
+            "By recognizing a constitutional right to a healthy environment and granting standing to communities or even natural entities, enabling direct legal action for environmental harms.",
+            "By invalidating all environmental legislation as interfering with commercial freedom.",
+            "By deferring all environmental disputes for arbitration by industry groups.",
+            "By limiting judicial review exclusively to individual property rights claims in environmental cases.",
+            "By requiring legislative approval before hearing any environment-related case."
+        ]
+    },
+    {
+        "question": "What key skill is recommended for continued engagement with contemporary issues in public law, especially as they relate to digital rights and global governance?",
+        "choices": [
+            "Engaging with interdisciplinary research that combines legal analysis with insights from politics, technology, and economics.",
+            "Limiting professional development to domestic statutory interpretation to avoid international complexity.",
+            "Focusing exclusively on historical case law to understand current challenges.",
+            "Participating only in courtroom litigation without follow-up policy analysis.",
+            "Writing exclusively about private law topics to avoid normative biases."
+        ]
+    }
+]

@@ -1,0 +1,1002 @@
+[
+    {
+        "question": "In the classic birthday problem, which of the following statements correctly reflects how probability and statistics would separately approach the problem?",
+        "choices": [
+            "Probability computes the chance at least two share a birthday; statistics analyzes data from an actual group to draw inferences.",
+            "Probability infers the distribution of birthdays from observed data; statistics predicts the likelihood two share a birthday in a group.",
+            "Probability and statistics both describe the observed frequency of shared birthdays in a data sample.",
+            "Probability always requires data collection; statistics cannot address hypothetical scenarios.",
+            "Statistics focuses on future events' uncertainty, while probability only describes known datasets."
+        ]
+    },
+    {
+        "question": "Suppose you roll a fair six-sided die. Which statement best matches the correct probability notation for the chance of rolling an even number AND a number greater than 3?",
+        "choices": [
+            "$P(\text{even and } >3)$",
+            "$P(\text{even} | >3)$",
+            "$P(\text{even or } >3)$",
+            "$P(>3)$",
+            "$P(\text{even})$"
+        ]
+    },
+    {
+        "question": "You toss a fair coin 5 times. What is the process to calculate the probability of getting exactly 3 heads?",
+        "choices": [
+            "Count all sequences with exactly 3 heads (by combinations), divide by total number of outcomes (2⁵); $P=\\frac{\\binom{5}{3}}{32}$",
+            "Apply the law of large numbers to estimate using simulation only.",
+            "Multiply the probability of heads 3 times by tails 2 times: $0.5^3 \\times 0.5^2$",
+            "List only two outcomes: either 3 heads occur or not; thus probability is 0.5.",
+            "Sum the probabilities of getting 1, 2, and 3 heads."
+        ]
+    },
+    {
+        "question": "Which of the following best characterizes the difference between descriptive and inferential statistics?",
+        "choices": [
+            "Descriptive statistics summarize data you have; inferential statistics use sample data to make generalizations about a population.",
+            "Descriptive statistics predict future outcomes; inferential statistics only describe past data.",
+            "Descriptive statistics collect data; inferential statistics graph data.",
+            "Descriptive statistics can be used without data; inferential statistics require simulation.",
+            "Inferential statistics are never used in real-world decision making, only descriptive statistics are."
+        ]
+    },
+    {
+        "question": "Imagine you repeatedly run the coin flip simulation from the lecture with 100 fair coin tosses. Which is the best explanation for why the proportion of heads varies between runs?",
+        "choices": [
+            "Each run samples randomness, leading to natural variation around the expected probability of 0.5.",
+            "The simulation algorithm is biased toward heads in some runs.",
+            "The proportion does not vary; it is always exactly 0.5 with 100 tosses.",
+            "Probability guarantees every outcome will occur exactly as predicted in a single experiment.",
+            "The coin is unfair despite being described as fair."
+        ]
+    },
+    {
+        "question": "Which aspect of probability and statistics is best exemplified by medical test sensitivity and disease prevalence calculations?",
+        "choices": [
+            "Probability quantifies the chance the test detects the disease; statistics estimates disease prevalence from observed data.",
+            "Statistics alone determines the probability a positive test indicates disease.",
+            "Statistics can predict the future occurrence of disease perfectly.",
+            "Probability is used only for summarizing test data after collection.",
+            "Neither probability nor statistics are applicable to medical testing."
+        ]
+    },
+    {
+        "question": "Regarding the interpretation of a weather forecast saying “There’s a 30% chance of rain tomorrow,” which is the correct probabilistic reasoning?",
+        "choices": [
+            "It means that, in situations similar to today, rain occurs on 30% of days in the long run.",
+            "It is certain to rain for 30% of the day tomorrow.",
+            "It will rain exactly 3 out of the next 10 days.",
+            "There is a 30% chance it will rain at exactly 3 pm.",
+            "It is guaranteed that 30% of your area will get rain."
+        ]
+    },
+    {
+        "question": "You survey 100 students and find 40 prefer bananas. Inferentially, what are you attempting to conclude with this data, using the concepts from the lecture?",
+        "choices": [
+            "Estimate or generalize about all students’ fruit preferences (the population) using the sample data.",
+            "Prove that banana is universally the favorite fruit with absolute certainty.",
+            "Describe only the 100 students surveyed, not making any broader inference.",
+            "Show that the proportion liking bananas must match the national rate exactly.",
+            "Suggest that no students outside the sample could prefer apples."
+        ]
+    },
+    {
+        "question": "Which statement about the coin toss example involving “7 heads in 10 tosses” best highlights the distinction between probability and statistics?",
+        "choices": [
+            "Probability answers “Given a fair coin, what’s the chance of 7 heads in 10 tosses?”; statistics asks “Given 7 heads in 10 tosses, is the coin fair?”",
+            "Probability asks whether the coin is fair after observing 7 heads; statistics computes the expected number of heads.",
+            "Statistics never uses coin toss data; only probability does.",
+            "Probability uses data samples to infer fairness, while statistics only computes theoretical probabilities.",
+            "Probability and statistics are interchangeable in this example."
+        ]
+    },
+    {
+        "question": "Which of the following real-world fields does NOT typically rely on both probability and statistics as described in the lecture?",
+        "choices": [
+            "None of the above (all listed fields rely on both probability and statistics)",
+            "Sports analytics",
+            "Business risk assessment",
+            "Policy and government polling",
+            "Artificial intelligence and machine learning"
+        ]
+    },
+    {
+        "question": "Suppose you toss a fair coin three times. How many simple events are there in the sample space, and which is an example of such an event?",
+        "choices": [
+            "There are 8 simple events; for example, getting Heads, Tails, Heads (HTH).",
+            "There are 6 simple events; for example, getting Heads, Heads, Tails (HHT).",
+            "There are 4 simple events; for example, getting all Heads (HHH).",
+            "There are 2 simple events; for example, getting all Tails (TTT).",
+            "There are 10 simple events; for example, getting Heads, Heads, Heads, Tails (HHHT)."
+        ]
+    },
+    {
+        "question": "If you draw a card from a standard deck of 52 cards, what is the probability of drawing a heart or a king?",
+        "choices": [
+            "4/13",
+            "17/52",
+            "1/2",
+            "1/4",
+            "1/3"
+        ]
+    },
+    {
+        "question": "Consider the following events when rolling a single fair six-sided die: A = {rolling a 1 or 2}, B = {rolling a 2, 3, or 4}. Which pair of events below is mutually exclusive?",
+        "choices": [
+            "A = {rolling a 5}, B = {rolling a 1}",
+            "A = {rolling a 1}, B = {rolling a 2}",
+            "A = {rolling a 2, 4}, B = {rolling a 4, 6}",
+            "A = {rolling an even number}, B = {rolling a number divisible by 3}",
+            "A = {rolling a 2, 3}, B = {rolling a 3, 4}"
+        ]
+    },
+    {
+        "question": "Two cards are drawn in succession without replacement from a standard deck of 52 cards. What is the probability that both cards are red?",
+        "choices": [
+            "25/102",
+            "1/4",
+            "13/102",
+            "25/104",
+            "13/100"
+        ]
+    },
+    {
+        "question": "A box contains 3 red balls and 2 blue balls. Two balls are selected at random without replacement. What is the probability that exactly one red and one blue ball are chosen?",
+        "choices": [
+            "6/10",
+            "3/10",
+            "9/20",
+            "1/2",
+            "3/12"
+        ]
+    },
+    {
+        "question": "Which of the following correctly describes the complement of the event “drawing a king from a standard deck of 52 cards”, and the probability associated with it?",
+        "choices": [
+            "The event 'drawing any card that is not a king', with probability 48/52",
+            "The event 'drawing a queen', with probability 4/52",
+            "The event 'drawing a king of hearts', with probability 1/52",
+            "The event 'drawing any face card', with probability 12/52",
+            "The event 'drawing an ace', with probability 4/52"
+        ]
+    },
+    {
+        "question": "Suppose the probability that it rains tomorrow is 0.3. Using the complement rule, what is the probability it does not rain, and what key property supports your computation?",
+        "choices": [
+            "0.7, because P(rain) + P(no rain) = 1",
+            "0.3, because P(rain) + P(no rain) = 0.6",
+            "0.4, because events are dependent",
+            "0.2, because probabilities must sum to 0.5 in two-outcome cases",
+            "0.6, because 1 - P(rain) = 0.6"
+        ]
+    },
+    {
+        "question": "Given two events A and B with P(A) = 0.5, P(B) = 0.4, and P(A ∩ B) = 0.2, what is P(A ∪ B)?",
+        "choices": [
+            "0.7",
+            "0.9",
+            "0.6",
+            "1.0",
+            "0.3"
+        ]
+    },
+    {
+        "question": "Suppose you toss two fair coins. Let event A be 'first coin is heads' and event B be 'second coin is heads'. Which statement about their relationship is most accurate?",
+        "choices": [
+            "A and B are independent events, so P(A ∩ B) = P(A) × P(B)",
+            "A and B are mutually exclusive, so P(A ∩ B) = 0",
+            "A and B are dependent events because the outcome of the first toss affects the second",
+            "Events A and B are exhaustive",
+            "P(A ∩ B) = P(A) + P(B)"
+        ]
+    },
+    {
+        "question": "In a group of 10 people, what is the probability that at least one person was born on a Monday? (Assume each birthday is equally likely to fall on any day of the week; use the complement rule for your answer.)",
+        "choices": [
+            "1 - (6/7)^10",
+            "(1/7)^10",
+            "1 - (1/7)^10",
+            "1 - (1/10)^7",
+            "1 - (6/10)^7"
+        ]
+    },
+    {
+        "question": "Suppose a bag contains 8 red and 7 blue balls. Two balls are drawn sequentially without replacement. What is the probability that both balls are blue, and what reasoning or computation leads to your result?",
+        "choices": [
+            "P(Both blue) = (7/15) * (6/14) = 42/210 = 1/5, because the first blue reduces the total and number of blues for the second draw.",
+            "P(Both blue) = (7/15) * (7/15) = 49/225, assuming independence, which is incorrect for without replacement.",
+            "P(Both blue) = (8/15) * (7/15), calculating the chance for red then blue.",
+            "P(Both blue) = (7/15) * (8/14), multiplying by the red balls left after a blue is taken.",
+            "P(Both blue) = 2*(7/15)*(6/14), doubling because order matters, which is not required for this ordered draw."
+        ]
+    },
+    {
+        "question": "A fair six-sided die is rolled. Let $A$ = 'even number is rolled' and $B$ = 'number greater than 3 is rolled.' Compute $P(A \times B)$ and interpret how you arrive at your answer with conditional probability in mind.",
+        "choices": [
+            "P(A \\cap B) = 1/3, since the numbers satisfying both are 4 and 6; so 2/6 = 1/3.",
+            "P(A \\cap B) = 1/6, considering only number 6 as common to both events.",
+            "P(A \\cap B) = 1/2, wrongly equating intersection with independent probabilities.",
+            "P(A \\cap B) = 1/4, dividing the die into four groups of outcomes.",
+            "P(A \\cap B) = 1/9, mistakenly multiplying probabilities as if independent."
+        ]
+    },
+    {
+        "question": "Suppose you have a disease prevalence of 2% in a population. A diagnostic test detects the disease 95% of the time when present but incorrectly yields a positive in 3% of healthy individuals. If a randomly selected person tests positive, which computation correctly uses Bayes' theorem to find the probability that they have the disease?",
+        "choices": [
+            "P(Disease|Positive) = (0.95*0.02) / (0.95*0.02 + 0.03*0.98)",
+            "P(Disease|Positive) = (0.02*0.03)/(0.98*0.03 + 0.02*0.95)",
+            "P(Disease|Positive) = (0.03*0.98) / (0.95*0.02 + 0.03*0.98)",
+            "P(Disease|Positive) = (0.02*0.95)/(0.03*0.98)",
+            "P(Disease|Positive) = 0.02 / (0.02 + 0.98)"
+        ]
+    },
+    {
+        "question": "Given events $A$ and $B$ with $P(A) = 0.4$, $P(B) = 0.5$, and $P(A \\cap B) = 0.2$, determine $P(A|B)$ and explain the correct mathematical justification.",
+        "choices": [
+            "P(A|B) = P(A \\cap B)/P(B) = 0.2/0.5 = 0.4; because conditional probability divides intersection by the conditioning event's probability.",
+            "P(A|B) = 0.4*0.5 = 0.2, multiplying marginals as if independent.",
+            "P(A|B) = 0.2/0.4 = 0.5, incorrectly switching the given and conditioning events.",
+            "P(A|B) = 0.7/0.5, using an incorrect value for the intersection.",
+            "P(A|B) = 0.9/0.4, misapplying the multiplication rule."
+        ]
+    },
+    {
+        "question": "In a deck of 52 cards, given that you have drawn a face card, what is the probability that it is not a king? How does this relate to conditional probability principles discussed?",
+        "choices": [
+            "P(Not king|Face) = (12-4)/12 = 8/12 = 2/3, since there are 12 face cards and 4 are kings.",
+            "P(Not king|Face) = (4/52)/(12/52) = 1/3, mistakenly calculating the probability of a king.",
+            "P(Not king|Face) = 8/52, incorrectly considering only non-kings as face cards.",
+            "P(Not king|Face) = 1/4, presuming there are four non-kings per suit.",
+            "P(Not king|Face) = 1/2, assuming two types of face cards."
+        ]
+    },
+    {
+        "question": "Suppose in a bag you have 6 green and 4 yellow balls. Two balls are drawn without replacement. What is the probability that the second ball is green, given that the first ball was yellow?",
+        "choices": [
+            "P(Second green | First yellow) = 6/9, because after removing one yellow, 6 greens and 3 yellows remain.",
+            "P(Second green | First yellow) = 6/10, not accounting for the removed yellow.",
+            "P(Second green | First yellow) = 5/9, mistaking the remaining greens.",
+            "P(Second green | First yellow) = 4/9, thinking only yellows count after.",
+            "P(Second green | First yellow) = 6/8, removing two balls from total rather than one."
+        ]
+    },
+    {
+        "question": "Consider two events: $H_1$ = 'heads on first coin toss' and $H_2$ = 'heads on second coin toss.' If you are told the outcome of the first toss is heads, what is $P(H_2 \\mid H_1)$ and why?",
+        "choices": [
+            "P(H_2|H_1) = 1/2, because coin tosses are independent events.",
+            "P(H_2|H_1) = 1/4, treating events as dependent.",
+            "P(H_2|H_1) = 0, presuming heads on the first precludes heads on the second.",
+            "P(H_2|H_1) = 1, assuming certainty after the first outcome.",
+            "P(H_2|H_1) = 2/3, misusing the multiplication rule."
+        ]
+    },
+    {
+        "question": "A bag contains 2 red and 3 blue balls. Two are drawn *without* replacement: $A$ = 'first is red', $B$ = 'second is red.' Compared to $P(A)$, how does $P(B|A)$ differ, and what is the reasoning?",
+        "choices": [
+            "P(A) = 2/5, P(B|A) = 1/4; P(B|A) is lower because one red ball has been removed, reducing both total and red balls remaining.",
+            "P(A) = 2/5, P(B|A) = 2/5, incorrectly assuming independence.",
+            "P(A) = 2/5, P(B|A) = 3/5, increasing because blue balls remain.",
+            "P(A) = 2/5, P(B|A) = 1/5, halving the red balls incorrectly.",
+            "P(A) = 2/5, P(B|A) = 2/4, ignoring the reduction in total balls."
+        ]
+    },
+    {
+        "question": "Suppose 5% of people are left-handed ($L$), 70% of left-handed people write with their left ($W$), and 1% of right-handed people write with their left. What is the probability that a randomly selected person writes with their left hand?",
+        "choices": [
+            "P(W) = (0.05)(0.70) + (0.95)(0.01) = 0.035 + 0.0095 = 0.0445",
+            "P(W) = (0.05)(0.01) + (0.95)(0.70)",
+            "P(W) = (0.05)(0.70) + (0.05)(0.01)",
+            "P(W) = (0.05)(0.99) + (0.95)(0.01)",
+            "P(W) = (0.95)(0.01)"
+        ]
+    },
+    {
+        "question": "A disease affects 0.5% of the population. A test is positive in 97% of diseased cases and 2% of healthy cases. If a person tests positive twice in independent tests, what is the probability they actually have the disease? (Provide the setup using Bayes' theorem.)",
+        "choices": [
+            "P(Disease|2 Positive) = (0.005)*(0.97)^2 / [0.005*0.97^2 + 0.995*0.02^2], because the total probability in denominator accounts for both disease and no disease scenarios across independent tests.",
+            "P(Disease|2 Positive) = (0.005)*(0.97) / [0.005*0.97 + 0.995*0.02], missing the independence effect of two tests.",
+            "P(Disease|2 Positive) = (0.005)*(0.02)^2 / [0.005*0.02^2 + 0.995*0.97^2], swapping the false positive and true positive rates.",
+            "P(Disease|2 Positive) = (0.995)*(0.02)^2 / [0.995*0.02^2 + 0.005*0.97^2], using the complement incorrectly in numerator.",
+            "P(Disease|2 Positive) = 0.97^2 / [0.97^2 + 0.02^2], omitting prevalence terms."
+        ]
+    },
+    {
+        "question": "Given a random variable $Y$ with PDF $f(y) = 2y$ for $0 \\le y \\le 1$, what is the value of $F(0.6)$, where $F$ is the CDF of $Y$?",
+        "choices": [
+            "0.36",
+            "0.6",
+            "0.72",
+            "0.18",
+            "0.12"
+        ]
+    },
+    {
+        "question": "Suppose $X$ is the number of heads in three tosses of a fair coin. What is the probability mass function (PMF) value $p(2) = P(X = 2)$?",
+        "choices": [
+            "0.375",
+            "0.5",
+            "0.25",
+            "0.125",
+            "0.625"
+        ]
+    },
+    {
+        "question": "For a continuous random variable $W$, which of the following statements about its PDF $f(w)$ and its CDF $F(w)$ is true?",
+        "choices": [
+            "$F(w)$ is always a non-decreasing function",
+            "$f(w)$ gives the probability $P(W = w)$ for some $w$",
+            "The area under $f(w)$ from $-\\infty$ to $w$ can be less than zero",
+            "$F(w)$ cannot ever reach the value 1",
+            "$f(w) \\leq 1$ for all $w$"
+        ]
+    },
+    {
+        "question": "Given the discrete random variable $Z$ with PMF $p(z)$ as follows:\n$$\np(z) = \\begin{cases}\n0.1 & z = 0 \\\n0.4 & z = 1 \\\n0.3 & z = 2 \\\n0.2 & z = 3 \\\n0 & \\text{otherwise}\n\\end{cases}\n$$\nWhat is the value of the CDF $F(2)$?",
+        "choices": [
+            "0.8",
+            "0.7",
+            "0.9",
+            "1.0",
+            "0.6"
+        ]
+    },
+    {
+        "question": "Let $Y$ be a continuous random variable with PDF $f(y) = 2y$ for $0 \\le y \\le 1.$ What is $P(0.25 \\le Y \\le 0.75)$?",
+        "choices": [
+            "0.5",
+            "0.75",
+            "0.25",
+            "0.125",
+            "0.6"
+        ]
+    },
+    {
+        "question": "If $X$ is a discrete random variable representing the outcome of rolling a fair die, and $A = \\{\\text{even numbers}\\}$, what is $P(A)$, the probability that $X$ is even?",
+        "choices": [
+            "0.5",
+            "0.666...",
+            "0.333...",
+            "0.75",
+            "0.25"
+        ]
+    },
+    {
+        "question": "Which property below is NOT always satisfied by a valid probability mass function (PMF)?",
+        "choices": [
+            "$\\sum_x p(x) > 0$",
+            "$p(x) \\geq 0$ for all $x$",
+            "$\\sum_x p(x) = 1$",
+            "$p(x_0) \\leq 1$ for any $x_0$",
+            "$p(x) \\leq 1$ for all $x$"
+        ]
+    },
+    {
+        "question": "Given the random variable $X =$ number of heads in three tosses of a fair coin, what is $F(1)$, the CDF at $x=1$?",
+        "choices": [
+            "0.5",
+            "0.375",
+            "0.25",
+            "0.625",
+            "0.75"
+        ]
+    },
+    {
+        "question": "Let $F(y)$ be the CDF of a continuous random variable $Y$ with differentiable CDF. Which of the following must be true for all real $y$?",
+        "choices": [
+            "$\\frac{d}{dy} F(y) \\geq 0$",
+            "$\\frac{d}{dy} F(y) \\leq 0$",
+            "$F(y)$ is strictly increasing",
+            "$F(y)$ is constant for $y > 0$",
+            "$F(y)$ has finite support only"
+        ]
+    },
+    {
+        "question": "Consider the function $g(y) = y^2$ defined for $0 \\le y \\le 1$ and $g(y) = 0$ otherwise. Is $g(y)$ a valid PDF? Why or why not?",
+        "choices": [
+            "No, because $\\int_0^1 y^2 dy = 1/3 \\neq 1$",
+            "Yes, because $g(y) \\ge 0$ and integrates to 1 over $[0,1]$",
+            "No, because $g(y)$ can be negative for some $y$",
+            "No, because $g(0) = 0$",
+            "Yes, because $\\int_{-\\infty}^\\infty g(y) dy = 1$"
+        ]
+    },
+    {
+        "question": "A fair die is rolled once. Which of the following distributions best models the outcome, and what are the parameters?",
+        "choices": [
+            "Discrete uniform distribution with $a=1$, $b=6$",
+            "Bernoulli distribution with $p=1/6$",
+            "Binomial distribution with $n=1$, $p=1/6$",
+            "Normal distribution with $\nu=3.5$, $\tau=1.71$",
+            "Poisson distribution with $\theta=3$"
+        ]
+    },
+    {
+        "question": "Suppose a random variable $X$ follows a Poisson distribution with mean $\theta$, and you observe that $Var(X) = 4$. What is the probability that $X=2$?",
+        "choices": [
+            "$\frac{e^{-4} \times 16}{2!}$",
+            "$\frac{e^{-2} \times 4}{2!}$",
+            "$\frac{e^{-4} \times 8}{2!}$",
+            "$\frac{e^{-2} \times 2}{2!}$",
+            "$\frac{e^{-4} \times 8}{4!}$"
+        ]
+    },
+    {
+        "question": "A variable $Y$ is modeled as $Binomial(n=10, p=0.4)$. Which of the following best gives the mean and variance of $Y$?",
+        "choices": [
+            "Mean $=4$, Variance $=2.4$",
+            "Mean $=2.4$, Variance $=4$",
+            "Mean $=6$, Variance $=2.4$",
+            "Mean $=4$, Variance $=6$",
+            "Mean $=2$, Variance $=2$"
+        ]
+    },
+    {
+        "question": "Let $Z$ be a standard normal random variable. Which calculation gives $P(-1 < Z < 2)$?",
+        "choices": [
+            "$P(Z<2) - P(Z<-1)$",
+            "$P(Z<1) - P(Z<-2)$",
+            "$P(Z>2) - P(Z>-1)$",
+            "$P(Z<2) - P(Z<1)$",
+            "$P(Z>-1) - P(Z>2)$"
+        ]
+    },
+    {
+        "question": "A biased coin shows heads with probability $0.3$. If you flip the coin $n$ times, which expression corresponds to the probability of getting exactly $k$ heads?",
+        "choices": [
+            "${n \brace k} (0.3)^k (0.7)^{n-k}$",
+            "${n \brace k} (0.7)^k (0.3)^{n-k}$",
+            "${n \binom k} (0.3)^k (0.7)^{n-k}$",
+            "${n \binom k} (0.7)^k (0.3)^{n-k}$",
+            "${n \brace k} (0.3)^n (0.7)^k$"
+        ]
+    },
+    {
+        "question": "For a continuous random variable $X$ uniformly distributed on $[a,b]$, what is its variance?",
+        "choices": [
+            "$\frac{(b-a)^2}{12}$",
+            "$\frac{(b+a)^2}{12}$",
+            "$b-a$",
+            "$\frac{(b-a)}{12}$",
+            "$\frac{(b-a)}{2}$"
+        ]
+    },
+    {
+        "question": "You select a random real number $X$ from $[3,11]$ uniformly. What is $P(5 < X < 8)$?",
+        "choices": [
+            "$\frac{3}{8}$",
+            "$\frac{8}{11}$",
+            "$\frac{5}{11}$",
+            "$\frac{3}{11}$",
+            "$\frac{11}{8}$"
+        ]
+    },
+    {
+        "question": "Consider a binomial random variable $X$ with $n=12$ and unknown $p$. If $E[X]=3$, what is $p$?",
+        "choices": [
+            "$0.25$",
+            "$0.5$",
+            "$0.3$",
+            "$0.75$",
+            "$0.4$"
+        ]
+    },
+    {
+        "question": "Suppose calls to a center per hour are Poisson with mean $6$. What is the probability that no call comes in one hour?",
+        "choices": [
+            "$e^{-6}$",
+            "$0$",
+            "$6e^{-6}$",
+            "$e^{-1}$",
+            "$1- e^{-6}$"
+        ]
+    },
+    {
+        "question": "Heights are normally distributed with mean $170$ cm and standard deviation $10$ cm. What is the $z$-score for a height of $189$ cm?",
+        "choices": [
+            "$1.9$",
+            "$0.9$",
+            "$1.7$",
+            "$1.89$",
+            "$0.89$"
+        ]
+    },
+    {
+        "question": "Given a data set with values [3, 6, 8, 10, 13], which of the following statements must be true?",
+        "choices": [
+            "The mean is greater than the median but less than the mode.",
+            "The range equals the interquartile range.",
+            "The median is equal to one of the data points in the set.",
+            "The variance is negative due to the spread of values.",
+            "The mean is insensitive to extreme values in the dataset."
+        ]
+    },
+    {
+        "question": "Suppose you are given two variables: customer gender (male/female) and monthly spending (in dollars). Which combination correctly assigns their data types?",
+        "choices": [
+            "Gender: qualitative nominal; Spending: quantitative continuous.",
+            "Gender: quantitative discrete; Spending: qualitative ordinal.",
+            "Gender: qualitative ordinal; Spending: quantitative discrete.",
+            "Gender: quantitative continuous; Spending: qualitative nominal.",
+            "Gender: qualitative discrete; Spending: qualitative nominal."
+        ]
+    },
+    {
+        "question": "Consider the dataset [2, 2, 3, 6, 13]. Which measure of central tendency best resists the influence of the outlier 13?",
+        "choices": [
+            "Median",
+            "Mean",
+            "Mode",
+            "Geometric mean",
+            "Range"
+        ]
+    },
+    {
+        "question": "Given the dataset [12, 14, 15, 17, 19, 24], suppose the smallest value 12 is replaced by 120. Which statistics will change the most?",
+        "choices": [
+            "Mean",
+            "Median",
+            "Mode",
+            "Interquartile range",
+            "Third quartile (Q3)"
+        ]
+    },
+    {
+        "question": "When constructing a boxplot for a dataset, which of the following is NOT required for its construction?",
+        "choices": [
+            "Mode",
+            "Minimum",
+            "First quartile (Q1)",
+            "Third quartile (Q3)",
+            "Median"
+        ]
+    },
+    {
+        "question": "You have a dataset [4, 4, 4, 4, 4]. Choose the TRUE statement about its variance and standard deviation.",
+        "choices": [
+            "The variance and standard deviation are both zero.",
+            "The standard deviation is greater than the variance.",
+            "The variance is negative due to lack of spread.",
+            "The variance is equal to the mean.",
+            "The standard deviation equals the range."
+        ]
+    },
+    {
+        "question": "A company has employee salaries: [30k, 32k, 35k, 37k, 120k]. Which statement best explains the impact on mean and median if the outlier (120k) is removed?",
+        "choices": [
+            "The mean decreases substantially; the median changes slightly.",
+            "Both mean and median decrease substantially.",
+            "Mean and median both remain unchanged.",
+            "The mean increases; the median decreases.",
+            "Both mean and median increase, but the mean changes more."
+        ]
+    },
+    {
+        "question": "Given the following frequency distribution:\n\n| Value | Frequency |\n|-------|-----------|\n| 1     | 2         |\n| 2     | 3         |\n| 3     | 1         |\n| 4     | 4         |\n\nWhat is the mode, and which visualization would best display how common each value is?",
+        "choices": [
+            "Mode: 4; Histogram.",
+            "Mode: 2; Boxplot.",
+            "Mode: 1; Pie chart.",
+            "Mode: 4; Boxplot.",
+            "Mode: 2; Scatterplot."
+        ]
+    },
+    {
+        "question": "Suppose you draw a histogram of exam scores and observe a long tail to the right. Which conclusion is justified?",
+        "choices": [
+            "The data are positively skewed; the mean will likely be greater than the median.",
+            "The data are symmetric; the mean equals the median.",
+            "There is a negative skew; the median exceeds the mean.",
+            "There are no outliers in the dataset.",
+            "A boxplot would show the median to the right of the box."
+        ]
+    },
+    {
+        "question": "If you have ordinal data, such as satisfaction ratings (poor, okay, good, excellent), which statistical measure is generally appropriate to summarize the center?",
+        "choices": [
+            "Median",
+            "Mean",
+            "Standard deviation",
+            "Variance",
+            "Interquartile range"
+        ]
+    },
+    {
+        "question": "Which of the following statements is TRUE regarding the sampling distribution of the mean?",
+        "choices": [
+            "Its mean equals the population mean, and its standard deviation decreases as sample size increases.",
+            "Its mean is always less than the population mean regardless of the sample size.",
+            "Its standard deviation increases as sample size increases.",
+            "It is always perfectly normal, regardless of sample size or population shape.",
+            "It depends only on the sample values, not the population parameters."
+        ]
+    },
+    {
+        "question": "A researcher needs a quick estimate of average daily coffee consumption on campus. They stand outside the library and survey every fifth person who enters. Which sampling methods are involved, and what potential issues arise?",
+        "choices": [
+            "Both systematic and convenience sampling are involved; the approach risks bias due to non-random participant selection and over-representation of library users.",
+            "Only simple random sampling is used, so results will be unbiased and representative.",
+            "Only stratified sampling is present, as students entering the library may form different strata based on study habits.",
+            "Only cluster sampling is present, as each group of five students is considered a cluster.",
+            "Neither systematic nor convenience sampling applies; this is an example of random sampling."
+        ]
+    },
+    {
+        "question": "Suppose a population is highly skewed to the right. You repeatedly draw samples of increasing size and calculate the mean of each sample. According to the Central Limit Theorem, what do you expect to observe as sample size increases?",
+        "choices": [
+            "The distribution of sample means will become increasingly normal, regardless of the skewness in the population.",
+            "The sample means will remain skewed no matter how large the sample size is.",
+            "The variance of sample means will increase with larger sample sizes.",
+            "The sample mean will always equal the population median.",
+            "The sample means will converge to the population's minimum value."
+        ]
+    },
+    {
+        "question": "Consider two methods: stratified sampling and cluster sampling. Which of the following best distinguishes them in practice?",
+        "choices": [
+            "Stratified sampling samples randomly from every subgroup, while cluster sampling samples all members within randomly chosen subgroups.",
+            "Stratified sampling selects entire subgroups, whereas cluster sampling selects individuals across all subgroups.",
+            "Both methods guarantee a proportional representation of every possible characteristic.",
+            "In stratified sampling, subgroups are defined naturally, while in cluster sampling they are artificially constructed.",
+            "Cluster sampling always results in larger sample sizes than stratified sampling."
+        ]
+    },
+    {
+        "question": "Given a population mean $\u0003C = 50$ and population standard deviation $\u0003C = 15$, what is the standard error of the mean for samples of size $n=25$?",
+        "choices": [
+            "3",
+            "15",
+            "0.6",
+            "7.5",
+            "1.5"
+        ]
+    },
+    {
+        "question": "Which of the following situations best illustrates a practical advantage of cluster sampling over simple random sampling?",
+        "choices": [
+            "Surveying all employees in 10 randomly chosen branches of a nationwide bank, rather than randomly selecting individual employees from all branches.",
+            "Randomly selecting 5 men and 5 women for a balanced study in a town.",
+            "Interviewing every 10th passenger that enters a train station during rush hour.",
+            "Standing outside a mall to interview a convenient group of shoppers about their purchases.",
+            "Assigning random numbers to all students at a university and picking 100 of them for a survey."
+        ]
+    },
+    {
+        "question": "Why does the standard error of the mean decrease as sample size increases?",
+        "choices": [
+            "Because the variability between sample means diminishes with larger samples, as described by $\u0003C_{\u0003C} = \u0003C / \u0003C{n}$.",
+            "Because the population standard deviation changes as more samples are taken.",
+            "Because larger samples always have lower variance than the population.",
+            "Because of the law of large numbers, the standard error becomes zero.",
+            "Because repeated sampling from a population is less necessary with large samples."
+        ]
+    },
+    {
+        "question": "If a population is unobservable in its entirety, such as all future customers, what is the most important justification for using samples for statistical inference?",
+        "choices": [
+            "It is impossible to observe the whole population, but statistical sampling and inference still yield estimates with measurable error.",
+            "Any results from samples cannot be generalized at all, so only samples can be used for description.",
+            "Population parameters can be calculated exactly from a sample in such cases.",
+            "Sampling introduces bias, but it is still easier than measuring the entire population.",
+            "Sampling should not be used at all for unknown populations."
+        ]
+    },
+    {
+        "question": "Regarding properties of a 'good' sample, which condition is essential for valid inference but often violated by convenience sampling?",
+        "choices": [
+            "Random selection of sample members from the population.",
+            "Large sample size, regardless of the selection method.",
+            "Equal number of individuals from every subgroup in the population.",
+            "Sampling only from easily accessible members.",
+            "Ensuring that all possible samples have a mean equal to the population mean."
+        ]
+    },
+    {
+        "question": "An instructor simulates sampling by randomly drawing 1000 samples (with replacement), each of size 10, from numbers 1 to 100 and plotting the histogram of the sample means. What would be the expected shape of this histogram, and why?",
+        "choices": [
+            "Approximately normal, due to the Central Limit Theorem, despite the original population being uniform.",
+            "Highly skewed to the right because the population values are evenly spread.",
+            "Bimodal, since the samples are drawn with replacement.",
+            "Uniform, exactly matching the distribution of the population.",
+            "Exponential, since random samples increase variance."
+        ]
+    },
+    {
+        "question": "Given a sample of n=25 with sample mean 80 and population standard deviation 10, what is the 99% confidence interval for the population mean? (Assume the population is normal or n is large enough.)",
+        "choices": [
+            "(74.848, 85.152)",
+            "(76.08, 83.92)",
+            "(75.25, 84.75)",
+            "(77.45, 82.55)",
+            "(73.93, 86.07)"
+        ]
+    },
+    {
+        "question": "Which of the following correctly describes the main difference between the use of the z-distribution and the t-distribution in constructing confidence intervals for the mean?",
+        "choices": [
+            "You use the t-distribution when the population standard deviation is unknown and estimate it with the sample standard deviation.",
+            "You use the z-distribution for all confidence intervals, regardless of standard deviation knowledge.",
+            "The t-distribution is used only for proportions, not means.",
+            "The z-distribution is always narrower than the t-distribution, regardless of sample size.",
+            "You use z-distribution when the sample standard deviation is much smaller than the mean."
+        ]
+    },
+    {
+        "question": "Suppose you have a sample mean of 50, a sample standard deviation of 8, and a sample size of 16. Using a 99% confidence level, what is the margin of error for the confidence interval of the mean? (Use the appropriate t* value from tables: t* ≈ 2.947 for df=15, 99% confidence.)",
+        "choices": [
+            "5.894",
+            "4.262",
+            "6.324",
+            "6.88",
+            "3.92"
+        ]
+    },
+    {
+        "question": "Which property of an estimator ensures that, as the sample size increases, the estimator gets arbitrarily close to the true population parameter?",
+        "choices": [
+            "Consistency",
+            "Unbiasedness",
+            "Efficiency",
+            "Robustness",
+            "Normality"
+        ]
+    },
+    {
+        "question": "A poll of 500 voters finds 240 plan to vote for Candidate A. What is the 90% confidence interval for the proportion of voters who plan to vote for Candidate A? (z* for 90% confidence is ≈ 1.645)",
+        "choices": [
+            "(0.444, 0.516)",
+            "(0.398, 0.482)",
+            "(0.426, 0.474)",
+            "(0.460, 0.540)",
+            "(0.420, 0.480)"
+        ]
+    },
+    {
+        "question": "Which of the following best describes the correct interpretation of a 95% confidence interval for a population mean, say (47, 53)?",
+        "choices": [
+            "Repeating sampling, approximately 95% of such intervals will contain the true mean.",
+            "There is a 95% probability that the true mean lies between 47 and 53.",
+            "The probability that the sample mean is in (47, 53) is 95%.",
+            "It is guaranteed that the true mean is between 47 and 53.",
+            "The interval contains the true mean if and only if the sample was random."
+        ]
+    },
+    {
+        "question": "Which of the following situations would invalidate the standard normal-based confidence interval for a proportion?",
+        "choices": [
+            "If either n𝐩̂<10 or n(1-𝐩̂)<10",
+            "If the sample is random",
+            "If the population size is much larger than the sample size",
+            "If the population proportion is exactly 0.5",
+            "If the population is normal but not large"
+        ]
+    },
+    {
+        "question": "In the context of confidence intervals, which change would result in a narrower interval?",
+        "choices": [
+            "Increasing the sample size while keeping everything else fixed.",
+            "Increasing the confidence level from 95% to 99%.",
+            "Decreasing the sample size.",
+            "Increasing the estimated standard error.",
+            "Using the t-distribution instead of the z-distribution, all else equal."
+        ]
+    },
+    {
+        "question": "A 95% confidence interval for the mean battery lifetime is (116.06, 123.94) based on n=36 and s=12. How would this interval change if the confidence level is increased to 99%?",
+        "choices": [
+            "The interval would become wider and would still be centered at the same sample mean.",
+            "The interval would become narrower but still centered at the sample mean.",
+            "It would stay the same width but have a different center.",
+            "It would shift left, but keep the same width.",
+            "It would have a lower mean."
+        ]
+    },
+    {
+        "question": "Suppose you increase the sample size in Exercise 8.1 to n=100, keeping the same sample mean and sample standard deviation. What will happen to the confidence interval for the mean?",
+        "choices": [
+            "It will become narrower because the standard error decreases with larger n.",
+            "It will become wider because a larger sample introduces more variability.",
+            "It will remain unchanged unless confidence level is changed.",
+            "The interval will move upwards.",
+            "It will become wider because the standard error increases with n."
+        ]
+    },
+    {
+        "question": "Suppose you conduct a one-sample t-test about the mean, and you obtain a p-value of 0.07 with a significance level of α = 0.05. What is the correct interpretation of this result?",
+        "choices": [
+            "There is insufficient evidence to reject the null hypothesis at the 0.05 significance level.",
+            "The null hypothesis is definitely true because p > α.",
+            "The alternative hypothesis is supported because the p-value is close to α.",
+            "There is a Type II error occurring in this context.",
+            "The test was incorrectly performed since the p-value is not less than α."
+        ]
+    },
+    {
+        "question": "Given a two-sample t-test with equal variances assumed, which of the following formulas correctly computes the pooled standard deviation, $s_p$?",
+        "choices": [
+            "$s_p = \\sqrt{ \\frac{ (n_1 - 1)s_1^2 + (n_2 - 1)s_2^2 }{ n_1 + n_2 - 2 } }$",
+            "$s_p = \\sqrt{ \\frac{ s_1^2 + s_2^2 }{ 2 } }$",
+            "$s_p = \\frac{ s_1 + s_2 }{ 2 }$",
+            "$s_p = \\sqrt{ s_1^2 / n_1 + s_2^2 / n_2 }$",
+            "$s_p = s_1 \\cdot s_2 / (s_1 + s_2)$"
+        ]
+    },
+    {
+        "question": "In the context of hypothesis testing, a researcher wants to detect a difference between two groups but sets a very low significance level (α = 0.001). What is the likely effect on Type II error (β) and power?",
+        "choices": [
+            "Type II error will increase, and the power will decrease.",
+            "Type II error will decrease, and power will increase.",
+            "Both Type I and Type II errors will increase.",
+            "Neither Type I nor Type II errors will be affected.",
+            "Power will be maximal because the significance level is low."
+        ]
+    },
+    {
+        "question": "A one-sample test is performed to evaluate whether the mean μ of a population is less than zero. Which formulation of hypotheses is most appropriate for this scenario?",
+        "choices": [
+            "$H_0: \\mu = 0$; $H_A: \\mu < 0$",
+            "$H_0: \\mu < 0$; $H_A: \\mu = 0$",
+            "$H_0: \\mu > 0$; $H_A: \\mu < 0$",
+            "$H_0: \\mu > 0$; $H_A: \\mu = 0$",
+            "$H_0: \\mu \\neq 0$; $H_A: \\mu < 0$"
+        ]
+    },
+    {
+        "question": "A political poll reports 54% support for a policy in a sample of 600 voters. What is the correct formula for the one-sample z-test statistic to test $H_0: p = 0.5$ at α = 0.05?",
+        "choices": [
+            "$Z = \\frac{0.54 - 0.5}{\\sqrt{0.5 \\times 0.5 / 600}}$",
+            "$Z = \\frac{0.54 - 0.5}{\\sqrt{0.54 \\times 0.46 / 600}}$",
+            "$Z = \\frac{0.5 - 0.54}{\\sqrt{0.5 \\times 0.5 / 600}}$",
+            "$Z = \\frac{0.5 - 0.54}{\\sqrt{0.54 \\times 0.46 / 600}}$",
+            "$Z = \\frac{0.54 - 0.46}{\\sqrt{0.5 \\times 0.5 / 600}}$"
+        ]
+    },
+    {
+        "question": "Which scenario exemplifies a Type I error in the context of hypothesis testing?",
+        "choices": [
+            "Rejecting the null hypothesis when it is actually true.",
+            "Failing to reject the null hypothesis when it is false.",
+            "Correctly failing to reject the null hypothesis when it is true.",
+            "Correctly rejecting the null hypothesis when the alternative is true.",
+            "Failing to detect an effect that actually exists."
+        ]
+    },
+    {
+        "question": "If a hypothesis test leads to 'reject $H_0$' with p-value 0.04 at α = 0.05, which of the following statements is TRUE regarding statistical and practical significance?",
+        "choices": [
+            "The result is statistically significant; practical significance must be considered separately.",
+            "The result is both statistically and practically significant by definition.",
+            "Statistical significance ensures practical importance in this case.",
+            "Statistical significance is not achieved because 0.04 > 0.01.",
+            "Practical significance is not relevant when statistical significance is found."
+        ]
+    },
+    {
+        "question": "A tire company claims their tires last 40,000 km. A sample of 25 tires shows mean 38,500 km and sample sd 3,000 km. What is the value of the one-sample t-test statistic to test if the mean differs from 40,000 km?",
+        "choices": [
+            "$t = \\frac{38,500 - 40,000}{3,000/\\sqrt{25}} = -2.5$",
+            "$t = \\frac{40,000 - 38,500}{3,000} = 0.5$",
+            "$t = \\frac{38,500 - 40,000}{3,000} = -0.5$",
+            "$t = \\frac{40,000 - 38,500}{3,000/\\sqrt{25}} = 2.5$",
+            "$t = \\frac{38,500 + 40,000}{3,000/\\sqrt{25}} = 26.5$"
+        ]
+    },
+    {
+        "question": "Which conditions justify using the Z-test for proportions rather than a t-test or other methods?",
+        "choices": [
+            "Both $np_0 > 5$ and $n(1-p_0) > 5$ hold for the sample and hypothesized proportion.",
+            "Sample standard deviation is known regardless of sample size.",
+            "Population variance is known and sample size is less than 30.",
+            "Sample size is less than 5, regardless of $p_0$.",
+            "Only the sample proportion is available, population parameters are unknown."
+        ]
+    },
+    {
+        "question": "In the context of a two-tailed test with significance level α = 0.05, which p-values would lead you to reject the null hypothesis?",
+        "choices": [
+            "Any p-value less than 0.05.",
+            "Any p-value less than or equal to 0.10.",
+            "Any p-value between 0.03 and 0.15.",
+            "Any p-value greater than 0.05 but less than 0.10.",
+            "Any p-value exactly equal to 0.05."
+        ]
+    },
+    {
+        "question": "In the clinical trial example, both the drug and placebo groups have 100 participants, and the mean difference in blood pressure reduction is 8 mmHg with a standard deviation of 5 mmHg in each group. What is the main reason we use a two-sample hypothesis test here rather than just trusting the difference in means?",
+        "choices": [
+            "To account for random variability and determine if the observed difference could plausibly arise if the drug had no effect",
+            "Because the sample size is too small to simply compare means",
+            "To adjust for possible confounding variables between groups",
+            "Because the drug group had a higher mean standard deviation than the placebo group",
+            "To determine the exact probability that the drug will work for every patient"
+        ]
+    },
+    {
+        "question": "In the A/B testing scenario, Version B shows a conversion rate increase from 10% (Version A) to 13%. If a statistical test yields a p-value of 0.10, what can you conclude about the difference between the two versions?",
+        "choices": [
+            "There is not enough evidence to conclude Version B is genuinely better at the 0.05 significance level",
+            "Version B is definitely better and the effect is practically significant",
+            "There is a 10% chance that the null hypothesis is false",
+            "The observed difference is due to sampling bias",
+            "The confidence interval for the difference must contain zero"
+        ]
+    },
+    {
+        "question": "A factory's control chart shows a few hourly measurements just outside control limits. What is the correct interpretation and response, based on statistical quality control?",
+        "choices": [
+            "The process may be malfunctioning and requires investigation before producing more units",
+            "It is proof that every single bolt produced during those hours is defective",
+            "Random variation always produces points outside control limits, so no action is needed",
+            "The mean of the overall process definitely changed",
+            "Control limits must be recalculated immediately after every outlier"
+        ]
+    },
+    {
+        "question": "Suppose you survey 1,000 voters and find 540 support a candidate. You construct a 95% confidence interval for the true proportion who support the candidate. Which of the following statements is most accurate?",
+        "choices": [
+            "If we repeated this sampling process many times, 95% of such intervals would contain the true population proportion",
+            "There is a 95% chance that the true proportion is within the specific interval we calculated",
+            "We are certain the true proportion is exactly 0.54",
+            "This interval only accounts for bias, not for sampling error",
+            "A confidence interval can only be interpreted as a statement about probability after calculation"
+        ]
+    },
+    {
+        "question": "What is the most serious statistical error in claiming 'correlation implies causation', as in the ice cream and drowning example?",
+        "choices": [
+            "Ignoring possible lurking variables that are associated with both phenomena",
+            "Incorrectly assuming the correlation coefficient is negative",
+            "Failing to compute a p-value for each variable",
+            "Assuming randomness in non-random data",
+            "Focusing on the mean instead of variability"
+        ]
+    },
+    {
+        "question": "In the teaching method case study, what is indicated if the 95% confidence interval for the difference in means between groups does NOT contain zero?",
+        "choices": [
+            "There is statistically significant evidence that the new method leads to a different mean score compared to the traditional method",
+            "The mean scores of both groups are identical",
+            "There is 95% probability that the difference in means is precisely the observed value",
+            "The sample was biased in its assignment",
+            "The new teaching method is practically better for every student"
+        ]
+    },
+    {
+        "question": "Which of the following is a correct interpretation of a p-value of 0.04 in a hypothesis test?",
+        "choices": [
+            "Assuming the null hypothesis is true, there is a 4% chance of observing results as extreme as the data observed or more so",
+            "The probability the null hypothesis is false is 96%",
+            "There is a 4% chance that the alternative hypothesis is true",
+            "There is a 4% probability that the data is entirely due to sampling bias",
+            "The observed statistic must be practically significant"
+        ]
+    },
+    {
+        "question": "Why can a large sample yield statistical significance for a tiny, practically meaningless effect?",
+        "choices": [
+            "Large samples reduce standard errors, making it easier for small differences to become statistically significant even if they lack practical relevance",
+            "Large samples always increase both practical and statistical significance together",
+            "Practical significance is only meaningful when p < 0.01",
+            "Statistical significance and effect magnitude are unrelated",
+            "Sampling bias always increases with larger samples"
+        ]
+    },
+    {
+        "question": "A website surveys only its current visitors and claims '90% of all customers like our new layout.' What is the main methodological flaw in this claim?",
+        "choices": [
+            "The sample is likely biased and may not represent the entire customer population",
+            "The survey did not calculate a confidence interval",
+            "The response rate was too high to trust the data",
+            "Statistical significance cannot be tested with proportions",
+            "The confidence level should be reported at 99%, not 95%"
+        ]
+    },
+    {
+        "question": "If a study finds an average effect with p-value = 0.01 yet the actual difference is very small (e.g., 0.4 kg weight loss over placebo in thousands of participants), what is the best statistical critique of claiming 'significant weight loss'?",
+        "choices": [
+            "The difference is statistically significant but may lack practical significance due to the small effect size",
+            "The result is not statistically significant because the effect size is small",
+            "The p-value proves causation in this context",
+            "The confidence interval must always include zero when p < 0.05",
+            "Large effects always have both statistical and practical significance"
+        ]
+    }
+]
