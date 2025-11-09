@@ -18,8 +18,7 @@ Here are the main modules of my projects
 - `src/utils/` — Shared utilities for Azure, logging, LLMs, and environment variables.
 
 Other notable:
-- `frontend/` - Chainlit frontned for testing ATLAS and better understand how it works in practice.
-- `deliverables/` - Project Plan and Final Dissertation about the project.
+- `frontend/` - Chainlit frontned for testing ATLAS and better understand how it works in 
 
 ---
 
