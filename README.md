@@ -125,7 +125,7 @@ Once you created your Azure subscription, deployed the resources, and populated 
 
 The command to open the app is:
 ```sh
-uv run chainlit run --port 8000 app.py
+cd frontend && uv run chainlit run --port 8000 app.py
 ```
 
 If you land on the login page, enter username `dev` and password `atlas`.
